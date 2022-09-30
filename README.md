@@ -1,4 +1,4 @@
-# CyberBlock
+# CyberBlock Community
 
 It is an intiiative undertaken by CyberBlock Community for students/young hackers who are absolute begineers in programming and want to learn it. This repository will contain all the possible resource in terms of code as well as illusatrations for the code so that any new comer can grasp the topic.
 
