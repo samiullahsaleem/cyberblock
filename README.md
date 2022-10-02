@@ -1,6 +1,6 @@
 # CyberBlock Community
 
-It is an intiiative undertaken by CyberBlock Community for students/young hackers who are absolute begineers in programming and want to learn it. This repository will contain all the possible resource in terms of code as well as illusatrations for the code so that any new comer can grasp the topic.
+It is an intiative undertaken by CyberBlock Community for students/young hackers who are absolute begineers in programming and want to learn it. This repository will contain all the possible resource in terms of code as well as illusatrations for the code so that any newcommer can grasp the topic.
 
 # How to contribute
 1. You can contribute in terms of Code
@@ -9,7 +9,7 @@ It is an intiiative undertaken by CyberBlock Community for students/young hacker
 ### Step 0
 Star and Fork this repository
 ### Step 1
-Look in the issues if the change you are doing is available and issues section is it assigned to someone or not if you can't find any issue open one. Anyone from our team will assign you the issue then you can start contributing
+Look in the issues section, if the change you are doing is available in the issues section and whether it is assigned to someone or not. If you can't find any issue then open one. Anyone from our team will assign you the issue then you can start contributing!
 ### step 2 Fork this repository
 You can fork this repository by clicking on fork button on top right corner. Once you fork this will create a copy of repo on your account
 ### step 3 Clone the repository 
