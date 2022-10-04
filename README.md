@@ -20,7 +20,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Stack
     - STL 
 - C#
-    - Empty so far
+    - Palindrome Checker
+    - Fibonacci Series
 - JavaScript
     - Adding two numbers
     - Date and Time
