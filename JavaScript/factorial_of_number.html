@@ -1,0 +1,46 @@
+<!-- JavaScript program to display date and time
+
+This code is contributed by Shubham baghel (username -> shubhambaghel34) in HacktoberFest 2022 -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HacktoberFest_22</title>
+</head>
+
+<body>
+    <div class="container">
+        <h3>
+            JavaScript program to find Factorial of Number
+        </h3>
+        <p>
+            This JavaScript code is contributed by Shubham Baghel (username -> shubhambaghel34) in HacktoberFest 2022.
+        </p>
+    </div>
+    Enter a number: <input id="number">
+    <button onclick="factorialofNumber()"> Factorial </button>
+    <br><br>
+    <p id="response"></p>
+    <script>
+        function factorialofNumber() {
+            //intialize variables
+            var i, number, factorial;
+            factorial = 1;
+            //get the value from id
+            number = document.getElementById("number").value;
+            //loop through element 
+            for (i = 1; i <= number; i++) {
+                factorial = factorial * i;
+            }
+            i = i - 1;
+            document.getElementById("response").innerHTML = `The factorial of given number is + ${i} is ${factorial} `
+        }  
+    </script>
+</body>
+
+</html>
