@@ -30,6 +30,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Design Patterns
         - Builder
         - Proxy
+    - Word Processor
     - Counter List
     - Hello World
     - HTML Validator
