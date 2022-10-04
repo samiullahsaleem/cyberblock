@@ -22,6 +22,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 - C#
     - Palindrome Checker
     - Fibonacci Series
+    - Number to Word Converter
 - JavaScript
     - Adding two numbers
     - Date and Time
