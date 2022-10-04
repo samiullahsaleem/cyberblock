@@ -1,0 +1,31 @@
+
+CREATE TABLE [dbo].[User] (
+    [Id]       INT           IDENTITY (1, 1) NOT NULL,
+    [UserName] NVARCHAR (50) NULL,
+    [PinCode]  NVARCHAR (50) NULL,
+    [isAdmin]  BIT           DEFAULT ((0)) NULL,
+    [Status]   BIT           NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+CREATE TABLE [dbo].[TransactionHistory] (
+    [Id]              INT           IDENTITY (1, 1) NOT NULL,
+    [AccountNum]      INT           NULL,
+    [TransactionType] NVARCHAR (50) NULL,
+    [To]              INT           NULL,
+    [Amount]          INT           NULL,
+    [Date]            NVARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_TransactionHistory_ToTable] FOREIGN KEY ([AccountNum]) REFERENCES [dbo].[Customer] ([AccountNum]) ON DELETE CASCADE ON UPDATE CASCADE
+);
+
+CREATE TABLE [dbo].[Customer] (
+    [AccountNum] INT           IDENTITY (1, 1) NOT NULL,
+    [HolderName] NVARCHAR (50) NULL,
+    [Type]       NVARCHAR (50) NULL,
+    [Balance]    INT           NULL,
+    [userID]     INT           NULL,
+    PRIMARY KEY CLUSTERED ([AccountNum] ASC),
+    CONSTRAINT [FK_Table_ToTable] FOREIGN KEY ([userID]) REFERENCES [dbo].[User] ([Id]) ON DELETE CASCADE ON UPDATE CASCADE
+);
+
