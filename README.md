@@ -26,6 +26,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Date and Time
     - Multiplication
     - Swapping two numbers
+    - String Palindrome
+    - Factorial of a number
 - Python
     - Design Patterns
         - Builder
@@ -47,6 +49,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 - [Manoj Khatri](https://github.com/RmNj17)
 - [Muhammad Saad](https://github.com/MuhammadSaad000)
 - [Ata Ul Mohsin](https://github.com/aumohsin99)
+- [Shubham Baghel](https://github.com/shubhambaghel34)
 - may be you are next
 
 That's all for now, we will update this file as soon as we get more contributors.
