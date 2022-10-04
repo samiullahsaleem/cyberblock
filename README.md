@@ -13,4 +13,6 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 - [Vedant Khairnar](https://github.com/VedantKhairnar)
 - [Saharsh Saxena](https://github.com/SaharshDaNerd)
 - [Manoj Khatri](https://github.com/RmNj17)
+- [Muhammad Saad](https://github.com/MuhammadSaad000)
+- [Ata Ul Mohsin](https://github.com/aumohsin99)
 - may be you are next
