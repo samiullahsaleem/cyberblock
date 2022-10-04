@@ -1,0 +1,43 @@
+
+<!-- JavaScript program check Palindrome string or not
+
+This code is contributed by Shubham Baghel (username -> shubhambaghel34) in HacktoberFest 2022 -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HacktoberFest_22</title>
+</head>
+<body>
+    <div class="container">
+        <h3>
+            JavaScript program to Check string is PalindromeorNot
+        </h3>
+        <p>
+            This JavaScript code is contributed by Shubham baghel (username -> shubhambaghel34) in HacktoberFest 2022.
+        </p>
+    </div>
+
+    <script>
+    function validatePalindrome(stringdata) {
+        //get a length of passed string
+            const lenghtofString = stringdata.length;
+
+            // iterate array of string 
+            for (let i = 0; i < lenghtofString / 2; i++) {
+
+                //check first and last charecters are same or not
+                if (stringdata[i] !== stringdata[lenghtofString - 1 - i]) {
+                    console.log('It is not a palindrome string');
+                }
+            }
+            console.log('It is a palindrome string');
+        }  
+        validatePalindrome("123");
+    </script>
+</body>
+</html>
