@@ -1,4 +1,5 @@
-### Kindly View Contributing.md file to see the guidelines for hacktoberfest 2022
+# Important
+### Kindly View Contributing.md file to see the guidelines for hacktoberfest 2022 before contributing to this repository.
 
 # Welcome to CyberBlock Community Repository
 ## It is specially for Hacktoberfest 2022
