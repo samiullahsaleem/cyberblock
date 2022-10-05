@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>Square and Cube of a number</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td>
+          <input type="text" name="a" id="first" placeholder="Enter a number" />
+        </td>
+      </tr>
+      <tr>
+        <td><button onclick="square()">Submit</button></td>
+      </tr>
+    </table>
+    <div id="num"></div>
+    <div id="num1"></div>
+  </body>
+
+  <script type="text/javascript">
+    const square = () => {
+      var a, Square, Cube;
+      a = parseInt(document.getElementById("first").value);
+      //Formulae for Square and Cube
+      Square = a * a;
+      Cube = a * a * a;
+      document.getElementById("num").innerHTML =
+        "Square of " + a + " is : " + Square;
+      document.getElementById("num1").innerHTML =
+        "Cube of " + a + " is : " + Cube;
+    };
+  </script>
+</html>
