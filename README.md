@@ -21,9 +21,14 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Stack
     - STL 
 - C#
+    - ATM Software in N-Tier
     - Palindrome Checker
     - Fibonacci Series
-    
+    - Number to Word Converter
+    - Design Patterns
+        - Adapter
+        - Facade
+        - Momento
 - JavaScript
     - Adding two numbers
     - Date and Time
@@ -31,6 +36,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Swapping two numbers
     - String Palindrome
     - Factorial of a number
+    - Todo List
 - Python
     - Design Patterns
         - Builder
