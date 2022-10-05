@@ -21,15 +21,21 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - STL
 - C#
     - ATM in N-Tier
+    - Palindrome Checker
+    - Fibonacci Series
+    - Number to Word Converter
 - JavaScript
     - Adding two numbers
     - Date and Time
     - Multiplication
     - Swapping two numbers
+    - String Palindrome
+    - Factorial of a number
 - Python
     - Design Patterns
         - Builder
         - Proxy
+    - Word Processor
     - Counter List
     - Hello World
     - HTML Validator
@@ -46,6 +52,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 - [Manoj Khatri](https://github.com/RmNj17)
 - [Muhammad Saad](https://github.com/MuhammadSaad000)
 - [Ata Ul Mohsin](https://github.com/aumohsin99)
+- [Shubham Baghel](https://github.com/shubhambaghel34)
+- [Iqra Sarwar](https://github.com/iqrasarwar)
 - may be you are next
 
 That's all for now, we will update this file as soon as we get more contributors.
