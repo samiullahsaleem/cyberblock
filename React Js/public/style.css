@@ -1,0 +1,55 @@
+body {
+  margin: 0px;
+}
+
+#flex {
+  display: flex;
+  justify-content: center;
+}
+
+#form {
+  width: 35%;
+  padding: 50px;
+}
+
+#card {
+  width: 60%;
+  padding: 50px;
+}
+
+#main {
+  background-color: blue; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #97cde0, #4cc57c);
+}
+
+#form {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#card {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#image{
+  width: 165px;
+  height: 170px;
+}
+
+@media only screen and (max-width: 1142px) {
+  #flex{
+    display: block;
+  }
+  #form {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #card {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+  
