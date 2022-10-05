@@ -4,14 +4,12 @@
 # Welcome to CyberBlock Community Repository
 ## It is specially for Hacktoberfest 2022
 
-
 <img width="576" alt="Hacktoberfest2022 Banner" src="https://user-images.githubusercontent.com/54318487/193989847-0891d8c8-88e3-4395-acbb-8e0df99e84ef.png">
-
 
 ## What is Hacktoberfest?
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
 
-## What we have contributed?
+## What we have contributed?   
 - C
     - Absolute Number Finder
     - Sum of odd numbers
@@ -21,12 +19,11 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 - C++
     - Queue
     - Stack
-    - STL
+    - STL 
 - C#
-    - ATM in N-Tier
     - Palindrome Checker
     - Fibonacci Series
-    - Number to Word Converter
+    
 - JavaScript
     - Adding two numbers
     - Date and Time
@@ -57,6 +54,9 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 - [Ata Ul Mohsin](https://github.com/aumohsin99)
 - [Shubham Baghel](https://github.com/shubhambaghel34)
 - [Iqra Sarwar](https://github.com/iqrasarwar)
+- [Ameena Abdullah](https://github.com/AmeenaAbdullah)
+- [Mubeen Ahmad](https://github.com/MubeenAhmad571)
+- [Amna Azam](https://github.com/Amnaazam123)
 - may be you are next
 
 That's all for now, we will update this file as soon as we get more contributors.
