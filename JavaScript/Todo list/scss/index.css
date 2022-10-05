@@ -2,7 +2,7 @@
   --dark: #374151;
   --darker: #1F2937;
   --darkest: #111827;
-  --grey: #6B7280;
+  --grey: #b4bdcf;
   --pink: #EC4899;
   --purple: #8B5CF6;
   --light: #EEE;
@@ -169,3 +169,30 @@ main {
 .task .actions .delete {
   color: crimson;
 }/*# sourceMappingURL=index.css.map */
+
+
+.task .actions #completion {
+ 
+}
+
+input[id^='task']  + label {
+  display: inline-block;
+  border: 1px solid #000;
+  width: 30px;
+  height: 34px;
+  position: relative;
+  border-radius: 7px;
+  background-image: linear-gradient(to right, var(--pink), var(--purple));
+  margin-left: 5px;
+}
+
+input[id^='task']:checked + label:after {
+  content: '✔';
+  color: #111827;
+  display: inline-block;
+  position: absolute;
+  font-size: 1.6em;
+  border-radius: 7px;
+  background-image: linear-gradient(to right, var(--pink), var(--purple));
+  margin-left: 5px;
+}
