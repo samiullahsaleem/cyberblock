@@ -2,8 +2,10 @@ window.addEventListener('load', () => {
 	const form = document.querySelector("#new-task-form");
 	const input = document.querySelector("#new-task-input");
 	const list_el = document.querySelector("#tasks");
+	let count = 0;
 
 	form.addEventListener('submit', (e) => {
+		count++;
 		e.preventDefault();
 
 		const task = input.value;
@@ -35,8 +37,20 @@ window.addEventListener('load', () => {
 		task_delete_el.classList.add('delete');
 		task_delete_el.innerText = 'Delete';
 
+		const task_completion_el = document.createElement('input');
+		task_completion_el.type = 'checkbox';
+		task_completion_el.id = 'task'+count;
+		task_completion_el.classList.add = 'completion';
+		
+		const task_completion_elabel = document.createElement('label');
+		task_completion_elabel.htmlFor = task_completion_el.id;
+		task_completion_elabel.id = 'completion-label';
+		task_completion_elabel.classList.add = 'completion-label';
+
 		task_actions_el.appendChild(task_edit_el);
 		task_actions_el.appendChild(task_delete_el);
+		task_actions_el.appendChild(task_completion_el);
+		task_actions_el.appendChild(task_completion_elabel);
 
 		task_el.appendChild(task_actions_el);
 
@@ -52,6 +66,14 @@ window.addEventListener('load', () => {
 			} else {
 				task_edit_el.innerText = "Edit";
 				task_input_el.setAttribute("readonly", "readonly");
+			}
+		});
+
+		task_completion_el.addEventListener('click', (e) => {
+			if (task_completion_el.checked==true) {
+				task_input_el.style.textDecoration = "line-through";
+			} else {
+				task_input_el.style.textDecoration = "none";
 			}
 		});
 
