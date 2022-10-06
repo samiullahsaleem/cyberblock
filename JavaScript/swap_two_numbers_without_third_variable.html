@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Swap Values</title>
+</head>
+<body>
+  <h1>Swap Values</h1>
+  <p>Swap two values without using the third variable!</p>
+
+  <script>
+    let a = 5;
+    let b = 4;
+
+    console.log("Before swap")
+    console.log("a = ", a);
+    console.log("b = ", b);
+
+    //swapping
+    a = a + b; // a = 5 + 4 = 9
+    b = a - b; // b = 9 - 4 = 5
+    a = a - b; // 9 - 5 = 4
+
+    console.log("After swap")
+    console.log("a = ", a);
+    console.log("b = ", b);
+  </script>
+</body>
+</html>
