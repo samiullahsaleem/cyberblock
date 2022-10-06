@@ -1,33 +1,30 @@
+<!-- JavaScript program to add two numbers
 
-<!-- JavaScript program to display date and time
-
-This code is contributed by Ridsa Shabbir (username -> ridsashabbir) in HacktoberFest 2022 -->
-
+This code is contributed by Syed Asad Raza (username -> @syedasadrazadevops) in HacktoberFest 2022 -->
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>HacktoberFest_22</title>
-</head>
-<body>
+  </head>
+
+  <body>
     <div class="container">
-        <h3>
-            JavaScript program to display date and time
-        </h3>
-        <p>
-            This JavaScript code is contributed by Ridsa Shabbir (username -> ridsashabbir) in HacktoberFest 2022.
-        </p>
+      <h3>JavaScript program to add two numbers</h3>
+      <p>
+        This JavaScript code is contributed by Syed Asad Raza (username ->
+        syedasadrazadevops) in HacktoberFest 2022.
+      </p>
+      <h1 id="date"></h1>
     </div>
 
-    <script>
-        let now = new Date(); // it will give you current date and time
-        console.log(now);
 
-        let dt = new Date(0);  // it will give you reference date and time
-        console.log(dt);
+    <script>
+        let dt = new Date();  // it will give you reference date and time
+        document.getElementById("date").innerHTML = dt.toDateString()
     </script>
-</body>
+  </body>
 </html>
