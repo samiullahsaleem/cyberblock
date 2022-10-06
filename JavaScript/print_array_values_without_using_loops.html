@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Array Values without loops</title>
+</head>
+<body>
+  <h1>Print array values</h1>
+  <p>Print the values in an array without using the loops!</p>
+
+  <script>
+    function print_array(arr) {
+      //base condition
+      if(arr.length > 0) {
+        console.log(arr[0]);
+        //using recursive calls
+        print_array(arr.slice(1))
+      }
+    }
+
+    let arr = [1,5,2,7,0]
+    print_array(arr)
+  </script>
+</body>
+</html>
