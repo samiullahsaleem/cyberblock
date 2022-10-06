@@ -1,0 +1,131 @@
+.section-menu-page
+{
+    .menu-page 
+    {
+        &__bg 
+        {
+            background-image: url("../img/menu/bg.jpg");
+            height: 70vh;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        &__overlay 
+        {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 70vh;
+            background-color: rgba($color-black, .5);
+        }
+        &__summary
+        {
+            padding: 3rem 0;
+            text-align: center;
+            background-color: $color-grey-light-2;
+            .wrapper
+            {
+                margin-top: 4rem;
+            }
+            h3 
+            {
+                margin: 2rem 0;
+                font-size: 2rem;
+            }
+        }
+        .heading 
+        {
+            position: absolute;
+            top: 40%;
+            width: 100%;
+            text-align: center;
+        }
+        .special 
+        {
+            padding: 10rem;
+            &__menu
+            {
+                h1, h2 
+                {
+                    text-transform: uppercase;
+                }
+                h2 
+                {
+                    color: $color-grey;
+                    font-weight: 100;
+                }
+            }
+        }
+        .wrapper-outer 
+        {
+            margin-top: 3rem;
+        }
+        .wrapper 
+        {
+            margin-top: .6rem;
+        }
+        
+    }
+}
+
+.menu-page-buffet-bg
+{
+    position: relative;
+    background-image: url("../img/menu/buffet.jpg");
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    .overlay 
+    {
+        position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 50vh;
+            background-color: rgba($color-black, .5);
+    }
+    .heading 
+        {
+            position: absolute;
+            top: 33%;
+            width: 100%;
+            text-align: center;
+        }
+}
+
+.buffet 
+{
+    padding: 10rem 0;
+    .wrapper 
+        {
+            margin-top: 1rem;
+        }
+    &__menu
+            {
+                &--info 
+                {
+                    padding-top: 7rem;
+                    h1 
+                    {
+                        color: $color-red-1;
+                        font-size: 5rem;
+                        margin-top: 1rem;
+                    }
+                    h2 
+                    {
+                        text-transform: uppercase;
+                        font-size: 2.5rem;
+                    }
+                    h3 
+                    {
+                        color: $color-grey;
+                        font-weight: 100;
+                        margin-top: 1rem;
+                    }
+                }
+                
+            }
+}

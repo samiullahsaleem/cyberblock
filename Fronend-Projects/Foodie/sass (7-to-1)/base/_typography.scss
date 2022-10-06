@@ -1,0 +1,59 @@
+
+body 
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+.heading-main
+{
+
+    color: $color-white;
+
+    font-size: 10rem;
+    text-transform: uppercase;
+    font-weight: bold;
+
+    letter-spacing: 1rem;
+
+}
+
+.heading-sub 
+{
+    font-family: 'Courgette', cursive;
+    color: white;
+    font-size: 3.5rem;
+}
+
+
+
+.heading-primary
+{
+    font-size: 4.5rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.heading-secondary 
+{
+    font-family: 'Courgette', cursive;
+    color: $color-red-1;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.heading-tertiary
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+span 
+    {
+        color: $color-red-1;
+    }

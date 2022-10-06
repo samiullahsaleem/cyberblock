@@ -1,0 +1,65 @@
+
+@media (max-width: 992px) 
+{
+    .navbar
+    {
+        background-color: white;
+    }
+    .nav-link 
+    {
+        color: black;
+    }
+    .section-reservation .reservation-form
+    {
+        width: 80%;
+    }
+
+    .heading .heading-main
+    {
+        font-size: 10vw;
+    }
+}
+
+
+@media (max-width: 767px) 
+{
+    .navbar
+    {
+        background-color: white;
+    }
+    .nav-link 
+    {
+        color: black;
+    }
+    .section-reservation .reservation-form
+    {
+        width: 100%;
+    }
+    .section-reservation .reservation 
+    {
+        padding: 15rem 2rem;
+    }
+}
+
+
+@media (max-width: 500px) 
+{
+    .header__heading .heading-main 
+    {
+        font-size: 18vw;
+    }
+}
+
+@media (max-width: 400px) 
+{
+    .reservation-form .heading-primary 
+    {
+        font-size: 10vw;
+    }
+    .load-logo 
+    {
+        width: 90%;
+    }
+}
+
+

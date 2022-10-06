@@ -1,0 +1,97 @@
+.contact-page__header 
+{
+    position: relative;
+    &--bg 
+    {
+        background-image: url("../img/contact/bg.jpg");
+        height: 70vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    &--overlay 
+        {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 70vh;
+            background-color: rgba($color-black, .5);
+        }
+        .heading 
+        {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            text-align: center;
+        }
+}
+
+.contact-info 
+{
+    padding: 3rem 0;
+    background-color: $color-grey-light-2;
+    .wrapper 
+    {
+        margin: 2rem 0;
+        text-align: center;
+        i 
+        {
+            font-size: 5rem;
+            color: $color-red-1;
+            margin: 1rem 0;
+        }
+        h1 
+        {
+            text-transform: uppercase;
+            margin: 1rem 0;
+        }
+    }
+}
+
+.contact-form 
+{
+    padding: 10rem 0;
+    .form 
+    {
+        .wrapper 
+        {
+            margin-top: 2rem;
+            label 
+            {
+                color: $color-red-1;
+                font-weight: bold;
+            }
+            input 
+            {
+                width: 100%;
+                padding: 1rem 1.5rem;
+                border-radius: 10px;
+                border: 1px solid black;
+                &:focus 
+                {
+                    outline: none;
+                    border: 1px solid $color-red-1;
+                }
+            }
+            textarea 
+            {
+                width: 100%;
+                padding: 1rem 1.5rem;
+                border: 1px solid black;
+                border-radius: 10px;
+                &:focus 
+                {
+                    outline: none;
+                    border: 1px solid $color-red-1;
+                }
+            }
+        }
+
+        .button 
+        {
+            text-align: center;
+        }
+        
+    }
+}

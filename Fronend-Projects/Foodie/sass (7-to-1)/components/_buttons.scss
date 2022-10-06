@@ -1,0 +1,47 @@
+.btn-text 
+{
+    &:link,
+    &:visited 
+    {
+        border-radius: 3px;
+        padding: 0.5rem 2rem;
+        text-decoration: none;
+        color: white;
+        font-weight: 700;
+        background: $color-red-1;
+        display: inline-block;
+        transition: all .2s;
+        font-weight: lighter;
+        border: 1px solid $color-red-1;
+    }
+
+    &:hover 
+    {
+        background: white;
+        color: $color-red-1;
+        box-shadow: 0 1rem 2rem rgba($color-black, .20);
+        transform: translateY(-2px);
+    }
+
+    &:active 
+    {
+        box-shadow: 0 .5rem 1rem rgba($color-black, .10);
+        transform: translateY(0);
+    }
+
+}
+
+.btn-form 
+{
+    padding: 1.3rem 5rem;
+    background-color: black;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    transition: all .3s;
+    &:hover
+    {
+        background-color: $color-red-1;
+    }
+}
+
