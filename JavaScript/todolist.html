@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TODO APP</title>
+  </head>
+  <style>
+    #text {
+      margin: 20px;
+      padding: 10px;
+      width: 500px;
+      height: 20px;
+      background-color: gray;
+      color: rgb(14, 14, 19);
+      border: 2px solid black;
+      border-radius: 6px;
+    }
+
+    .btn {
+      height: 40px;
+      width: 100px;
+      background: black;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    #todos {
+      font-size: 20px;
+      color: rgb(241, 222, 222);
+      background-color: rgb(153, 26, 26);
+      margin: 15px;
+      padding: 10px;
+      border: 2px solid black;
+      list-style: none;
+    }
+  </style>
+
+  <body>
+    <div class="container">
+      <input type="text" id="text" />
+      <button class="btn" onclick="addTodo();" id="addBtn">ADD</button>
+      <ul id="todos"></ul>
+    </div>
+
+    <script>
+      var todos = [{ title: "Hello" }];
+      function addTodo() {
+        var todo = document.getElementById("text");
+        todos.push({ title: todo.value });
+        todo.value = "";
+        display();
+      }
+
+      function display() {
+        var ul = document.getElementById("todos");
+        ul.innerHTML = "";
+        for (var i = 0; i < todos.length; i++) {
+          var current = document.createElement("li");
+          current.innerHTML = todos[i].title;
+          ul.append(current);
+        }
+      }
+
+      display();
+    </script>
+  </body>
+</html>
