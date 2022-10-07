@@ -1,0 +1,93 @@
+.reservation-page__header 
+{
+    position: relative;
+    &--bg 
+    {
+        background-image: url("../img/reservation/bg-1.jpg");
+        height: 70vh;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    &--overlay 
+        {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 70vh;
+            background-color: rgba($color-black, .5);
+        }
+        .heading 
+        {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            text-align: center;
+        }
+}
+
+.booking-form 
+{
+    padding: 10rem 0;
+    .form 
+    {
+        input 
+        {
+            width: 100%;
+            padding: 1rem 1.5rem;
+            border: 1px solid black;
+            border-radius: 10px;
+            &:focus 
+            {
+            outline: none;
+            box-shadow: 0 1rem 2rem rgba($color-black, .2); 
+            border: 1px solid $color-red-1;   
+        }
+        }
+        label 
+        {
+            color: $color-red-1;
+            font-weight: bold;
+        }
+        .wrapper 
+        {
+            margin-top: 3rem;
+        }
+        .button 
+        {
+            margin-top: 3rem;
+            text-align: center;
+        }
+    }
+}
+
+.booking-options 
+{
+    padding: 5rem 0;
+    background-color: $color-grey-light-2;
+    i 
+    {
+        font-size: 6rem;
+        color: $color-red-1;
+    }
+    h1 
+    {
+        text-transform: uppercase;
+        margin: 2rem 0;
+    }
+}
+
+.offers 
+{
+    padding: 10rem;
+    .wrapper 
+    {
+        margin-top: 2rem;
+        p 
+        {
+            margin: 1rem 0;
+            line-height: 2.6rem;
+        }
+    }
+}

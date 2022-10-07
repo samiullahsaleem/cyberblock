@@ -1,0 +1,78 @@
+.preloader 
+{
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+    z-index: 4000;
+}
+
+.load-logo 
+{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    animation: fill .5s ease forwards 3s;
+}
+
+.load-logo path:nth-child(1)
+{
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    animation: line 3s forwards linear;
+}
+.load-logo path:nth-child(2)
+{
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    animation: line 3s forwards linear;
+
+}
+.load-logo path:nth-child(3)
+{
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    animation: line 3s forwards linear;
+
+}
+.load-logo path:nth-child(4)
+{
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    animation: line 3s forwards linear;
+
+}
+.load-logo path:nth-child(5)
+{
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    animation: line 3s forwards linear;
+
+}
+.load-logo path:nth-child(6)
+{
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    animation: line 3s forwards linear;
+
+}
+
+@keyframes line 
+{
+    to 
+    {
+        stroke-dashoffset: 0;
+    }
+}
+@keyframes fill 
+{
+    from 
+    {
+        fill: transparent;
+    }
+    to 
+    {
+        fill: $color-red-1;
+    }
+}

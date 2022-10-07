@@ -1,0 +1,245 @@
+section
+{
+    font-size: 1.6rem;
+}
+
+.section-about 
+{
+    padding: 8rem 0 8rem 0;
+    text-align: center;
+    .about 
+    {
+        &__info
+        {
+            padding: 8rem 0;
+            text-align: center;
+            line-height: 2.5rem;
+        }
+
+        
+        &__summary
+        {
+            padding-top: 8rem;
+            h1 
+            {
+                font-size: 5rem;
+                color: $color-red-1;
+            }
+        }
+    }
+}
+
+.img-padding 
+        {
+           margin: 3rem 0;
+        }
+
+.section-discover
+{
+    position: relative;
+    .img
+    {
+        background-image: url("../img/discover/bg.jpg");
+        height: 50vh;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .overlay
+    {
+        position: absolute;
+        background-color: rgba(black, .7);
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    .heading
+    {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        text-align: center;
+        width: 100%;
+        h2 
+        {
+            font-family: 'Courgette', cursive;
+            font-size: 3.5rem;
+            color: white;
+        }
+    }
+}
+
+.section-gallery 
+{
+    .gallery 
+    {
+        &__img
+        {
+            position: relative;
+            transition: all .4s;
+
+            &--overlay
+            {
+                position: absolute;
+                background-color: rgba(black, .4);
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+            &--text
+            {
+                position: absolute;
+                top: 85%;
+                left: 0;
+                padding: 1rem 2rem;
+                text-align: center;
+                width: 100%;
+            }
+
+            &:hover 
+            {
+                filter: brightness(30%);
+            }
+        }
+    }
+}
+
+.pic
+{
+    width: 100%;
+    height: 100%;
+}
+
+.section-events
+{
+    padding: 8rem 0;
+    .events
+    {
+        .info
+        {
+            padding-top: 8rem;
+            text-align: center;
+            line-height: 3rem;
+        }
+    }
+}
+
+.section-menu 
+{
+    padding: 10rem 0;
+    .menu 
+    {
+        &__img
+        {
+            position: relative;
+            img 
+            {
+                border-radius: 10px;  
+                transition: all .3s;
+            }
+            .text 
+            {
+                position: absolute;
+                top: 50%;
+                transition: all .3s;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                //display: inline-block;
+                padding: 1.5rem 2rem;
+                background: rgba(white, .85);
+                border-radius: 10px;
+                font-size: 2.5rem;
+                text-transform: uppercase;
+                color: $color-red;
+                font-weight: bold;
+            }
+            &:hover .text 
+            {
+                background: rgba($color-red, .85);
+                color: white;
+            }
+            &:hover img 
+            {
+                filter: brightness(30%);
+                transform: scale(1.05);
+            }
+        }
+    }
+}
+
+.section-reservation
+{
+    .reservation
+    {
+        background-image: url("../img/reservation/bg.jpg");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding: 15rem 0 15rem 15rem;
+
+
+        .wrapper 
+        {
+            padding-top: 2rem;
+        }
+
+        &-form 
+        {
+            background-color: white;
+            border-radius: 3px;
+            padding: 8rem 4rem;
+            width: 50%;
+            input 
+        {
+            width: 100%;
+            padding: 1rem 1.5rem;
+            border: 1px solid black;
+            border-radius: 10px;
+            &:focus 
+            {
+            outline: none;
+            box-shadow: 0 1rem 2rem rgba($color-black, .2); 
+            border: 1px solid $color-red-1;   
+        }
+        }
+        label 
+        {
+            color: $color-red-1;
+            font-weight: bold;
+        }
+            .button 
+            {
+                text-align: center;
+            }
+        }
+    }
+}
+
+.section-customers 
+{
+    padding: 15rem 0;
+    .customers 
+    {
+        &__review
+        {
+            padding-top: 10rem;
+        }
+        i 
+        {
+            color: $color-red-1;
+        }
+        &__pic
+        {
+            margin: 0 auto;
+            margin-bottom: 3rem;
+            .img
+            {
+                width: 15rem;
+                display: block;
+            }
+        }
+    }
+}

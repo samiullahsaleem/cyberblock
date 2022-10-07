@@ -1,0 +1,79 @@
+
+.section-about-page
+{
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+    .about-page
+    {
+        &__header 
+        {
+            position: relative;
+            &__bg
+            {
+                background-image: url("../img/about/bg.jpg");
+                height: 70vh;
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center;
+            }
+            &__overlay 
+            {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 70vh;
+                background-color: rgba($color-black, .5);
+            }
+            .heading 
+            {
+                position: absolute;
+                top: 55%;
+                width: 100%;
+                text-align: center;
+            }
+        }
+        
+        &__info 
+        {
+            padding: 10rem 0;
+        }
+        .about__summary
+        {
+            padding-top: 8rem;
+            h1 
+            {
+                font-size: 5rem;
+                color: $color-red-1;
+            }
+        }
+       
+        .event 
+        {
+            padding: 6rem 0;
+            text-align: center;
+            background-color: $color-grey-light-2;
+            .wrapper
+            {
+                margin-top: 4rem;
+            }
+            h3 
+            {
+                margin: 2rem 0;
+                font-size: 2rem;
+            }
+        }
+        .chef 
+        {
+            padding: 15rem 0;
+            .wrapper 
+            {
+                margin-top: 8rem;
+            }
+            &__info 
+            {
+                margin-top: 2rem;
+            }
+        }
+    }
+}
