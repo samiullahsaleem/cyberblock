@@ -16,10 +16,17 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Factorial using recursion
     - Finding power
     - Separating digits
+    - Fibonacci Series without recursion
 - C++
+    - Simple Calculator
     - Queue
     - Stack
     - STL 
+    - Tree
+    - Design Patterns
+        - Chain of Responsibility
+        - State
+    - Point distance
 - C#
     - ATM Software in N-Tier
     - Palindrome Checker
@@ -29,6 +36,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         - Adapter
         - Facade
         - Momento
+        - Strategy
 - JavaScript
     - Adding two numbers
     - Date and Time
@@ -37,6 +45,10 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - String Palindrome
     - Factorial of a number
     - Todo List
+    - Cube Square Number
+    - Password visibility
+    - Swapping two numbers without using third variable
+    - Printing arrays wthout using loops
 - Python
     - Design Patterns
         - Builder
@@ -47,6 +59,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - HTML Validator
     - Mailer
     - WhatsApp Automation
+    - Attendance Automation
+    - Complex Numbers
+    - Symmetric Matrix
+    - Tic Tac Toe
+- React JS
+    - Student Enrollment
+
 
 ## Special Mentions for Contributors
 - [Sami Ullah Saleem](https://github.com/samiullahsaleem)
@@ -64,6 +83,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 - [Ameena Abdullah](https://github.com/AmeenaAbdullah)
 - [Mubeen Ahmad](https://github.com/MubeenAhmad571)
 - [Amna Azam](https://github.com/Amnaazam123)
+- [Eman Munir](https://github.com/emanmunir)
+- [Mahnoor Ali](https://github.com/Mahnoor786-dev)
+- [Usama Malook](https://github.com/samitiz)
+- [Canggih Wahyu Rinaldi](https://github.com/canggihwr)
+- [Laiba Kamal](https://github.com/laibakamal)
+- [Noor Atif](https://github.com/NoorAtif)
+- [Muhammad Uzair](https://github.com/heyitsuzair)
 - may be you are next
 
 That's all for now, we will update this file as soon as we get more contributors.
