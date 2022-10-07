@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<head>
+    <title>
+        HTML
+    </title>
+
+<body>
+    <input type="date" id="text" />
+    <button onclick="submit()">Submit</button>
+    <ul id="list"></ul>
+    <script>
+        function submit() {
+            var input = document.getElementById("text");
+            if (input.value == "") {
+                return;
+            }
+            var list = document.getElementById("list");
+            // list.innerHTML = input.value;
+            var li = document.createElement("li");
+            li.innerHTML = input.value;
+            list.append(li);
+            input.value = "";
+        }
+    </script>
+</body>
+</head>
