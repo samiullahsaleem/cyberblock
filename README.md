@@ -37,6 +37,9 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         - Facade
         - Momento
         - Strategy
+-Java
+    - Floyds Triangle Pattern
+    - Hollow Rectangle Pattern
 - JavaScript
     - Adding two numbers
     - Date and Time
