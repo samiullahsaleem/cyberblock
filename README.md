@@ -37,6 +37,9 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         - Facade
         - Momento
         - Strategy
+-Java
+    - Floyds Triangle Pattern
+    - Hollow Rectangle Pattern
 - JavaScript
     - Adding two numbers
     - Date and Time
@@ -54,17 +57,28 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         - Builder
         - Proxy
     - Word Processor
+    - Attendance Automation
+    - Binary 5
+    - Calculator
+    - Complex Numbers
     - Counter List
+    - Dictionary to JSON
+    - Email Validator
+    - Factorial
+    - Fibonacci
     - Hello World
     - HTML Validator
+    - IA Implementation
     - Mailer
-    - WhatsApp Automation
-    - Attendance Automation
-    - Complex Numbers
+    - Matrix Symmetric
+    - Palindrome
+    - Proper Case
+    - React JS
+        - Student Enrollment
     - Symmetric Matrix
-    - Tic Tac Toe
-- React JS
-    - Student Enrollment
+    - Tick Tac Toe
+    - WhatsApp Automation
+    
 
 
 ## Special Mentions for Contributors
