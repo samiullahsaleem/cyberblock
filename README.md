@@ -346,6 +346,3 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
-
-
-That's all for now, we will update this file as soon as we get more contributors.
