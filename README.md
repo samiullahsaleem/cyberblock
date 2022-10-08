@@ -27,6 +27,10 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         - Chain of Responsibility
         - State
     - Point distance
+    - Perfect Number Problem
+    - Array Sorting
+    - Binary Search
+    - Hashing
 - C#
     - ATM Software in N-Tier
     - Palindrome Checker
@@ -37,6 +41,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         - Facade
         - Momento
         - Strategy
+- Frontend Projects
+    - Foodie
 - Java
     - Floyds Triangle Pattern
     - Hollow Rectangle Pattern
@@ -52,6 +58,9 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Password visibility
     - Swapping two numbers without using third variable
     - Printing arrays wthout using loops
+- React JS
+    - Student Enrollment
+    - Affirmations App
 - Python
     - Design Patterns
         - Builder
@@ -73,8 +82,6 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Matrix Symmetric
     - Palindrome
     - Proper Case
-    - React JS
-        - Student Enrollment
     - Symmetric Matrix
     - Tick Tac Toe
     - WhatsApp Automation
@@ -83,29 +90,266 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 
 
 ## Special Mentions for Contributors
-- [Sami Ullah Saleem](https://github.com/samiullahsaleem)
-- [Mursal Furqan](https://github.com/mursalfk)
-- [Ridsa Shabbir](https://github.com/ridsashabbir)
-- [Atta E Mustafa](https://github.com/ATTA-E-MUSTAFA)
-- [Vedant Khairnar](https://github.com/VedantKhairnar)
-- [Saharsh Saxena](https://github.com/SaharshDaNerd)
-- [Manoj Khatri](https://github.com/RmNj17)
-- [Muhammad Saad](https://github.com/MuhammadSaad000)
-- [Ata Ul Mohsin](https://github.com/aumohsin99)
-- [Shubham Baghel](https://github.com/shubhambaghel34)
-- [Iqra Sarwar](https://github.com/iqrasarwar)
-- [Mahnoor Ali](https://github.com/Mahnoor786-dev)
-- [Ameena Abdullah](https://github.com/AmeenaAbdullah)
-- [Mubeen Ahmad](https://github.com/MubeenAhmad571)
-- [Amna Azam](https://github.com/Amnaazam123)
-- [Eman Munir](https://github.com/emanmunir)
-- [Mahnoor Ali](https://github.com/Mahnoor786-dev)
-- [Usama Malook](https://github.com/samitiz)
-- [Canggih Wahyu Rinaldi](https://github.com/canggihwr)
-- [Laiba Kamal](https://github.com/laibakamal)
-- [Noor Atif](https://github.com/NoorAtif)
-- [Muhammad Uzair](https://github.com/heyitsuzair)
-- [Vansh](https://github.com/Vansh2305)
-- may be you are next
 
-That's all for now, we will update this file as soon as we get more contributors.
+<!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/samiullahsaleem">
+            <img src="https://avatars.githubusercontent.com/u/54318487?v=4" width="100;" alt="samiullahsaleem"/>
+            <br />
+            <sub><b>Sami Ullah Saleem</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/aumohsin99">
+            <img src="https://avatars.githubusercontent.com/u/57590526?v=4" width="100;" alt="aumohsin99"/>
+            <br />
+            <sub><b>Ata Ul Mohsin</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/mursalfk">
+            <img src="https://avatars.githubusercontent.com/u/36442744?v=4" width="100;" alt="mursalfk"/>
+            <br />
+            <sub><b>Mursal Furqan</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ATTA-E-MUSTAFA">
+            <img src="https://avatars.githubusercontent.com/u/102528299?v=4" width="100;" alt="ATTA-E-MUSTAFA"/>
+            <br />
+            <sub><b>ATTA-E-MUSTAFA</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/emanmunir">
+            <img src="https://avatars.githubusercontent.com/u/104212613?v=4" width="100;" alt="emanmunir"/>
+            <br />
+            <sub><b>Eman Munir</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ridsashabbir">
+            <img src="https://avatars.githubusercontent.com/u/81819648?v=4" width="100;" alt="ridsashabbir"/>
+            <br />
+            <sub><b>Ridsa Shabbir</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Myrausman">
+            <img src="https://avatars.githubusercontent.com/u/99428378?v=4" width="100;" alt="Myrausman"/>
+            <br />
+            <sub><b>Maira Usman</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Ameerhamza2000">
+            <img src="https://avatars.githubusercontent.com/u/92073068?v=4" width="100;" alt="Ameerhamza2000"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/nomanlatif123">
+            <img src="https://avatars.githubusercontent.com/u/75476323?v=4" width="100;" alt="nomanlatif123"/>
+            <br />
+            <sub><b>Noman Latif</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/shubhambaghel34">
+            <img src="https://avatars.githubusercontent.com/u/21123907?v=4" width="100;" alt="shubhambaghel34"/>
+            <br />
+            <sub><b>Shubham_Baghel</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/VedantKhairnar">
+            <img src="https://avatars.githubusercontent.com/u/42309779?v=4" width="100;" alt="VedantKhairnar"/>
+            <br />
+            <sub><b>Vedant Khairnar</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Zeeshan6781">
+            <img src="https://avatars.githubusercontent.com/u/67405028?v=4" width="100;" alt="Zeeshan6781"/>
+            <br />
+            <sub><b>Zeeshan Latif</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/unsmuhammad">
+            <img src="https://avatars.githubusercontent.com/u/107023053?v=4" width="100;" alt="unsmuhammad"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Mahnoor786-dev">
+            <img src="https://avatars.githubusercontent.com/u/80174852?v=4" width="100;" alt="Mahnoor786-dev"/>
+            <br />
+            <sub><b>Mahnoor Ali</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Bsef19a514">
+            <img src="https://avatars.githubusercontent.com/u/72212932?v=4" width="100;" alt="Bsef19a514"/>
+            <br />
+            <sub><b>Zain Ahmad</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/gupta-soham">
+            <img src="https://avatars.githubusercontent.com/u/97831613?v=4" width="100;" alt="gupta-soham"/>
+            <br />
+            <sub><b>Soham Gupta</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/samitiz">
+            <img src="https://avatars.githubusercontent.com/u/67449314?v=4" width="100;" alt="samitiz"/>
+            <br />
+            <sub><b>USAMA MALOOK</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Vansh2305">
+            <img src="https://avatars.githubusercontent.com/u/72547809?v=4" width="100;" alt="Vansh2305"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/NoorAtif">
+            <img src="https://avatars.githubusercontent.com/u/77112713?v=4" width="100;" alt="NoorAtif"/>
+            <br />
+            <sub><b>Noor Atif</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/samadpls">
+            <img src="https://avatars.githubusercontent.com/u/94792103?v=4" width="100;" alt="samadpls"/>
+            <br />
+            <sub><b>Abdul Samad Siddiqui</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AmeenaAbdullah">
+            <img src="https://avatars.githubusercontent.com/u/99495118?v=4" width="100;" alt="AmeenaAbdullah"/>
+            <br />
+            <sub><b>Ameena</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Amnaazam123">
+            <img src="https://avatars.githubusercontent.com/u/71166016?v=4" width="100;" alt="Amnaazam123"/>
+            <br />
+            <sub><b>Amna Azam</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MuhammadSaad000">
+            <img src="https://avatars.githubusercontent.com/u/67402416?v=4" width="100;" alt="MuhammadSaad000"/>
+            <br />
+            <sub><b>Muhammad Saad</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MubeenAhmad571">
+            <img src="https://avatars.githubusercontent.com/u/56739319?v=4" width="100;" alt="MubeenAhmad571"/>
+            <br />
+            <sub><b>Mubeen Ahmad</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/ahmad-14a">
+            <img src="https://avatars.githubusercontent.com/u/115044686?v=4" width="100;" alt="ahmad-14a"/>
+            <br />
+            <sub><b>Ahmad Ali</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/gaurav1205">
+            <img src="https://avatars.githubusercontent.com/u/23035869?v=4" width="100;" alt="gaurav1205"/>
+            <br />
+            <sub><b>Gaurav Kumar </b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/laibakamal">
+            <img src="https://avatars.githubusercontent.com/u/84386567?v=4" width="100;" alt="laibakamal"/>
+            <br />
+            <sub><b>LAIBA KAMAL</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/RmNj17">
+            <img src="https://avatars.githubusercontent.com/u/90838977?v=4" width="100;" alt="RmNj17"/>
+            <br />
+            <sub><b>Manoj Khatri</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MananDev">
+            <img src="https://avatars.githubusercontent.com/u/88824142?v=4" width="100;" alt="MananDev"/>
+            <br />
+            <sub><b>Muhammad Manan</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/heysagnik">
+            <img src="https://avatars.githubusercontent.com/u/70798495?v=4" width="100;" alt="heysagnik"/>
+            <br />
+            <sub><b>Sagnik Sahoo </b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/SaharshDaNerd">
+            <img src="https://avatars.githubusercontent.com/u/58357403?v=4" width="100;" alt="SaharshDaNerd"/>
+            <br />
+            <sub><b>Saharsh Saxena</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Souvik2376">
+            <img src="https://avatars.githubusercontent.com/u/100219950?v=4" width="100;" alt="Souvik2376"/>
+            <br />
+            <sub><b>Souvik Banerjee</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/canggihwr">
+            <img src="https://avatars.githubusercontent.com/u/57065088?v=4" width="100;" alt="canggihwr"/>
+            <br />
+            <sub><b>Canggih Wahyu Rinaldi</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/heyitsuzair">
+            <img src="https://avatars.githubusercontent.com/u/89875366?v=4" width="100;" alt="heyitsuzair"/>
+            <br />
+            <sub><b>Muhammad Uzair</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/iqrasarwar">
+            <img src="https://avatars.githubusercontent.com/u/71145709?v=4" width="100;" alt="iqrasarwar"/>
+            <br />
+            <sub><b>Iqra Sarwar</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/mafzaldev">
+            <img src="https://avatars.githubusercontent.com/u/78255759?v=4" width="100;" alt="mafzaldev"/>
+            <br />
+            <sub><b>Muhammad Afzal</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: contributors -end -->
