@@ -27,6 +27,10 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         - Chain of Responsibility
         - State
     - Point distance
+    - Perfect Number Problem
+    - Array Sorting
+    - Binary Search
+    - Hashing
 - C#
     - ATM Software in N-Tier
     - Palindrome Checker
@@ -37,6 +41,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         - Facade
         - Momento
         - Strategy
+- Frontend Projects
+    - Foodie
 - Java
     - Floyds Triangle Pattern
     - Hollow Rectangle Pattern
@@ -52,6 +58,9 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Password visibility
     - Swapping two numbers without using third variable
     - Printing arrays wthout using loops
+- React JS
+    - Student Enrollment
+    - Affirmations App
 - Python
     - Design Patterns
         - Builder
@@ -73,8 +82,6 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Matrix Symmetric
     - Palindrome
     - Proper Case
-    - React JS
-        - Student Enrollment
     - Symmetric Matrix
     - Tick Tac Toe
     - WhatsApp Automation
