@@ -78,6 +78,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Symmetric Matrix
     - Tick Tac Toe
     - WhatsApp Automation
+    - Armstrong Number Program
     
 
 
