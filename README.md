@@ -108,4 +108,10 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 - [Vansh](https://github.com/Vansh2305)
 - may be you are next
 
+Mohsin's Automation
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
+
+
 That's all for now, we will update this file as soon as we get more contributors.
