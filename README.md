@@ -105,6 +105,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 - [Laiba Kamal](https://github.com/laibakamal)
 - [Noor Atif](https://github.com/NoorAtif)
 - [Muhammad Uzair](https://github.com/heyitsuzair)
+- [Vansh](https://github.com/Vansh2305)
 - may be you are next
 
 That's all for now, we will update this file as soon as we get more contributors.
