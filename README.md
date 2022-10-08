@@ -83,32 +83,6 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 
 
 ## Special Mentions for Contributors
-- [Sami Ullah Saleem](https://github.com/samiullahsaleem)
-- [Mursal Furqan](https://github.com/mursalfk)
-- [Ridsa Shabbir](https://github.com/ridsashabbir)
-- [Atta E Mustafa](https://github.com/ATTA-E-MUSTAFA)
-- [Vedant Khairnar](https://github.com/VedantKhairnar)
-- [Saharsh Saxena](https://github.com/SaharshDaNerd)
-- [Manoj Khatri](https://github.com/RmNj17)
-- [Muhammad Saad](https://github.com/MuhammadSaad000)
-- [Ata Ul Mohsin](https://github.com/aumohsin99)
-- [Shubham Baghel](https://github.com/shubhambaghel34)
-- [Iqra Sarwar](https://github.com/iqrasarwar)
-- [Mahnoor Ali](https://github.com/Mahnoor786-dev)
-- [Ameena Abdullah](https://github.com/AmeenaAbdullah)
-- [Mubeen Ahmad](https://github.com/MubeenAhmad571)
-- [Amna Azam](https://github.com/Amnaazam123)
-- [Eman Munir](https://github.com/emanmunir)
-- [Mahnoor Ali](https://github.com/Mahnoor786-dev)
-- [Usama Malook](https://github.com/samitiz)
-- [Canggih Wahyu Rinaldi](https://github.com/canggihwr)
-- [Laiba Kamal](https://github.com/laibakamal)
-- [Noor Atif](https://github.com/NoorAtif)
-- [Muhammad Uzair](https://github.com/heyitsuzair)
-- [Vansh](https://github.com/Vansh2305)
-- may be you are next
-
-Mohsin's Automation
 
 <!-- readme: contributors -start -->
 <table>
