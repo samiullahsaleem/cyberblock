@@ -119,7 +119,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     </td>
     <td align="center">
         <a href="https://github.com/Nitishpal68">
-            <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100;" alt="nitish"/>
+            <img src="" width="100;" alt="nitish"/>
             <br />
             <sub><b>Nitish Pal</b></sub>
         </a>
