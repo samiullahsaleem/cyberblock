@@ -45,6 +45,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Foodie
 - Java
     - Floyds Triangle Pattern
+    - Remove duplicate values form array
+    - Addition of integers in the strings
     - Hollow Rectangle Pattern
 - JavaScript
     - Adding two numbers
@@ -113,6 +115,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <img src="https://avatars.githubusercontent.com/u/36442744?v=4" width="100;" alt="mursalfk"/>
             <br />
             <sub><b>Mursal Furqan</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Nitishpal68">
+            <img src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg" width="100;" alt="nitish"/>
+            <br />
+            <sub><b>Nitish Pal</b></sub>
         </a>
     </td>
     <td align="center">
