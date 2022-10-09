@@ -1,15 +1,4 @@
-def Fibonacci_num(m): 
-    u = 0
-    v = 1
-    if m < 0: 
-        print("Incorrect input entered") 
-    elif m == 0: 
-        return u 
-    elif m == 1: 
-        return v
-    else: 
-        for i in range(2,m): 
-            c = u + v 
-            u = v
-            v = c 
-        return v
+def fib(n):
+		if n== 0 or n== 1:
+			return n
+		return fib (n- 1) + fib (n- 2) 
