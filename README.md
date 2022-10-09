@@ -116,6 +116,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Bsef19a514">
+            <img src="https://avatars.githubusercontent.com/u/72212932?v=4" width="100;" alt="Bsef19a514"/>
+            <br />
+            <sub><b>Zain Ahmad</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ATTA-E-MUSTAFA">
             <img src="https://avatars.githubusercontent.com/u/102528299?v=4" width="100;" alt="ATTA-E-MUSTAFA"/>
             <br />
@@ -128,15 +135,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Eman Munir</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ridsashabbir">
             <img src="https://avatars.githubusercontent.com/u/81819648?v=4" width="100;" alt="ridsashabbir"/>
             <br />
             <sub><b>Ridsa Shabbir</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Myrausman">
             <img src="https://avatars.githubusercontent.com/u/99428378?v=4" width="100;" alt="Myrausman"/>
@@ -171,15 +178,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Vedant Khairnar</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Zeeshan6781">
             <img src="https://avatars.githubusercontent.com/u/67405028?v=4" width="100;" alt="Zeeshan6781"/>
             <br />
             <sub><b>Zeeshan Latif</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/unsmuhammad">
             <img src="https://avatars.githubusercontent.com/u/107023053?v=4" width="100;" alt="unsmuhammad"/>
@@ -192,13 +199,6 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <img src="https://avatars.githubusercontent.com/u/80174852?v=4" width="100;" alt="Mahnoor786-dev"/>
             <br />
             <sub><b>Mahnoor Ali</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Bsef19a514">
-            <img src="https://avatars.githubusercontent.com/u/72212932?v=4" width="100;" alt="Bsef19a514"/>
-            <br />
-            <sub><b>Zain Ahmad</b></sub>
         </a>
     </td>
     <td align="center">
