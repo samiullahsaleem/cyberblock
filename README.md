@@ -175,13 +175,20 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Osama-Sultan189">
+            <img src="https://avatars.githubusercontent.com/u/59367747?v=4" width="100;" alt="Osama-Sultan189"/>
+            <br />
+            <sub><b>Osama Sultan</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/shubhambaghel34">
             <img src="https://avatars.githubusercontent.com/u/21123907?v=4" width="100;" alt="shubhambaghel34"/>
             <br />
             <sub><b>Shubham_Baghel</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/VedantKhairnar">
             <img src="https://avatars.githubusercontent.com/u/42309779?v=4" width="100;" alt="VedantKhairnar"/>
@@ -216,15 +223,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Mahnoor Ali</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/gupta-soham">
             <img src="https://avatars.githubusercontent.com/u/97831613?v=4" width="100;" alt="gupta-soham"/>
             <br />
             <sub><b>Soham Gupta</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/samitiz">
             <img src="https://avatars.githubusercontent.com/u/67449314?v=4" width="100;" alt="samitiz"/>
@@ -259,15 +266,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Ahmad Ali</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/AmeenaAbdullah">
             <img src="https://avatars.githubusercontent.com/u/99495118?v=4" width="100;" alt="AmeenaAbdullah"/>
             <br />
             <sub><b>Ameena</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Amnaazam123">
             <img src="https://avatars.githubusercontent.com/u/71166016?v=4" width="100;" alt="Amnaazam123"/>
@@ -302,15 +309,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Developer Sah</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/farhanashrafdev">
             <img src="https://avatars.githubusercontent.com/u/53370109?v=4" width="100;" alt="farhanashrafdev"/>
             <br />
             <sub><b>Farhan Ashraf</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/fasihullahsaleem">
             <img src="https://avatars.githubusercontent.com/u/97796711?v=4" width="100;" alt="fasihullahsaleem"/>
@@ -345,27 +352,20 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>LAIBA KAMAL</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/RmNj17">
             <img src="https://avatars.githubusercontent.com/u/90838977?v=4" width="100;" alt="RmNj17"/>
             <br />
             <sub><b>Manoj Khatri</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/MananDev">
             <img src="https://avatars.githubusercontent.com/u/88824142?v=4" width="100;" alt="MananDev"/>
             <br />
             <sub><b>Muhammad Manan</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Osama-Sultan189">
-            <img src="https://avatars.githubusercontent.com/u/59367747?v=4" width="100;" alt="Osama-Sultan189"/>
-            <br />
-            <sub><b>Osama Sultan</b></sub>
         </a>
     </td>
     <td align="center">
