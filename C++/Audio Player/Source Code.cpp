@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en" data-color-mode="dark" data-light-theme="light_colorblind" data-dark-theme="dark" data-a11y-animated-images="system">
   <head>
@@ -67,7 +60,6 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-bb3792edafca.js"></script>
   
 
-  <title>Hacktoberfest-2021/Source Code.cpp at main · elishahyousaf/Hacktoberfest-2021</title>
 
 
 
