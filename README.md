@@ -197,6 +197,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/MubeenAhmad571">
+            <img src="https://avatars.githubusercontent.com/u/56739319?v=4" width="100;" alt="MubeenAhmad571"/>
+            <br />
+            <sub><b>Mubeen Ahmad</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/unsmuhammad">
             <img src="https://avatars.githubusercontent.com/u/107023053?v=4" width="100;" alt="unsmuhammad"/>
             <br />
@@ -216,15 +223,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Soham Gupta</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/samitiz">
             <img src="https://avatars.githubusercontent.com/u/67449314?v=4" width="100;" alt="samitiz"/>
             <br />
             <sub><b>USAMA MALOOK</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Vansh2305">
             <img src="https://avatars.githubusercontent.com/u/72547809?v=4" width="100;" alt="Vansh2305"/>
@@ -259,27 +266,20 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Ameena</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Amnaazam123">
             <img src="https://avatars.githubusercontent.com/u/71166016?v=4" width="100;" alt="Amnaazam123"/>
             <br />
             <sub><b>Amna Azam</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/MuhammadSaad000">
             <img src="https://avatars.githubusercontent.com/u/67402416?v=4" width="100;" alt="MuhammadSaad000"/>
             <br />
             <sub><b>Muhammad Saad</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MubeenAhmad571">
-            <img src="https://avatars.githubusercontent.com/u/56739319?v=4" width="100;" alt="MubeenAhmad571"/>
-            <br />
-            <sub><b>Mubeen Ahmad</b></sub>
         </a>
     </td>
     <td align="center">
