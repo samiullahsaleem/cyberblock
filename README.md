@@ -145,8 +145,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Elishah Yousaf</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ATTA-E-MUSTAFA">
             <img src="https://avatars.githubusercontent.com/u/102528299?v=4" width="100;" alt="ATTA-E-MUSTAFA"/>
