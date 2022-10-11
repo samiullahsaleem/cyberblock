@@ -31,6 +31,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Array Sorting
     - Binary Search
     - Hashing
+    -AVL TREES PROGRAM WITH ALL ROTATIONS
 - C#
     - ATM Software in N-Tier
     - Palindrome Checker
