@@ -138,7 +138,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Elishah Yousaf</b></sub>
         </a>
-    </td></tr>
+	</td> </tr>
 <tr>
     <td align="center">
         <a href="https://github.com/ATTA-E-MUSTAFA">
@@ -475,6 +475,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Muhammad Afzal</b></sub>
         </a>
-    </td></tr>
+    </td>
+	 <td align="center">
+      	  <a href="https://github.com/khawajaazfar2000">
+       	   <img src="https://avatars.githubusercontent.com/u/73386961?v=4" width="100px;" alt="khawajaazfar2000"/>
+           <br />
+           <sub><b>Khawaja Azfar</b> </sub>
+	  </a>
+	</td></tr>
 </table>
 <!-- readme: contributors -end -->
