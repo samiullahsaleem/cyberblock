@@ -89,6 +89,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - WhatsApp Automation
     - Armstrong Number Program
     - Blockchain program to show concept of crypto(hashes)
+    - Vending Machine
 
 
 ## Special Mentions for Contributors
@@ -101,6 +102,14 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <img src="https://avatars.githubusercontent.com/u/54318487?v=4" width="100;" alt="samiullahsaleem"/>
             <br />
             <sub><b>Sami Ullah Saleem</b></sub>
+        </a>
+    </td>
+	
+	<td align="center">
+        <a href="https://github.com/khawajaazfar2000">
+            <img src="https://avatars.githubusercontent.com/u/73386961?v=4" width="100;" alt="Khawajaazfar2000"/>
+            <br />
+            <sub><b>Khawaja Azfar Asif</b></sub>
         </a>
     </td>
     <td align="center">
