@@ -51,7 +51,7 @@ lives_visual_dict = {
         1: """
                 ___________
                | /        | 
-               |/        ( )
+               |/       (  )
                |          |
                |         / 
                |
@@ -59,7 +59,7 @@ lives_visual_dict = {
         2: """
                 ___________
                | /        | 
-               |/        ( )
+               |/        (  )
                |          |
                |          
                |
@@ -67,7 +67,7 @@ lives_visual_dict = {
         3: """
                 ___________
                | /        | 
-               |/        ( )
+               |/        (  )
                |          
                |          
                |
@@ -109,6 +109,7 @@ def get_valid_word(words):
 
 
 def hangman():
+    count = 0
     word = get_valid_word(words)
     word_letters = set(word)  # letters in the word
     alphabet = set(string.ascii_uppercase)
@@ -130,6 +131,7 @@ def hangman():
         user_letter = input('Guess a letter: ').upper()
         if user_letter in alphabet - used_letters:
             used_letters.add(user_letter)
+            count = 1 + count
             if user_letter in word_letters:
                 word_letters.remove(user_letter)
                 print('')
@@ -139,6 +141,7 @@ def hangman():
                 print('\nYour letter,', user_letter, 'is not in the word.')
 
         elif user_letter in used_letters:
+            count = count +2 
             print('\nYou have already used that letter. Guess another letter.')
 
         else:
@@ -146,6 +149,7 @@ def hangman():
 
     # gets here when len(word_letters) == 0 OR when lives == 0
     if lives == 0:
+        count = count + 2
         print(lives_visual_dict[lives])
         print('You died, sorry. The word was', word)
     else:
