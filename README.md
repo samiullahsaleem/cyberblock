@@ -247,6 +247,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/KHADEEJAH123">
+            <img src="https://avatars.githubusercontent.com/u/110920576?v=4" width="100;" alt="KHADEEJAH123"/>
+            <br />
+            <sub><b>KHADEEJAH ASHRAF</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/MuhammadSaad000">
             <img src="https://avatars.githubusercontent.com/u/67402416?v=4" width="100;" alt="MuhammadSaad000"/>
             <br />
@@ -266,15 +273,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>USAMA MALOOK</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Vansh2305">
             <img src="https://avatars.githubusercontent.com/u/72547809?v=4" width="100;" alt="Vansh2305"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/NoorAtif">
             <img src="https://avatars.githubusercontent.com/u/77112713?v=4" width="100;" alt="NoorAtif"/>
@@ -309,15 +316,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Amna Azam</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mananaggarwal2001">
             <img src="https://avatars.githubusercontent.com/u/75381077?v=4" width="100;" alt="mananaggarwal2001"/>
             <br />
             <sub><b>AnonymousManan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/humairshoukat">
             <img src="https://avatars.githubusercontent.com/u/88780542?v=4" width="100;" alt="humairshoukat"/>
@@ -352,15 +359,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Souvik Banerjee</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/developergaurav-exe">
             <img src="https://avatars.githubusercontent.com/u/74445745?v=4" width="100;" alt="developergaurav-exe"/>
             <br />
             <sub><b>Harsh Gaurav</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/yodifm">
             <img src="https://avatars.githubusercontent.com/u/43497163?v=4" width="100;" alt="yodifm"/>
@@ -395,15 +402,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Areeba Muzammil</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/CoderSah">
             <img src="https://avatars.githubusercontent.com/u/115417419?v=4" width="100;" alt="CoderSah"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/RahulSahOfficial">
             <img src="https://avatars.githubusercontent.com/u/62435110?v=4" width="100;" alt="RahulSahOfficial"/>
@@ -438,27 +445,20 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Hamna Mohiuddin</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/imran2001">
             <img src="https://avatars.githubusercontent.com/u/54732152?v=4" width="100;" alt="imran2001"/>
             <br />
             <sub><b>IMRAN NAZIR</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/JeevanSainik789">
             <img src="https://avatars.githubusercontent.com/u/115283993?v=4" width="100;" alt="JeevanSainik789"/>
             <br />
             <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/KHADEEJAH123">
-            <img src="https://avatars.githubusercontent.com/u/110920576?v=4" width="100;" alt="KHADEEJAH123"/>
-            <br />
-            <sub><b>KHADEEJAH ASHRAF</b></sub>
         </a>
     </td>
     <td align="center">
