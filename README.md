@@ -96,6 +96,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Pandas
     - Matplotlib
     - Seaborn
+    - Numpy
 
 
 ## Special Mentions for Contributors
