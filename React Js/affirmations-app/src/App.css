@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  font-family: "Amatic SC", cursive;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 1.2s;
+}
+
+.affirmation {
+  width: 95vw;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.affirmation-text {
+  width: 80%;
+  color: #fff;
+  font-size: 5rem;
+  font-weight: 700;
+  text-align: center;
+  user-select: none;
+  animation: fadeIn 1.2s;
+  transition: all 0.5s;
+}
+
+.affirmation-text:hover {
+  text-shadow: 3px 3px #1e1e1e;
+}
+
+.affirmation-text::first-letter {
+  text-transform: uppercase;
+}
+
+iframe {
+  position: absolute;
+  right: 5%;
+  bottom: 5%;
+  animation: moveIn 1s ease;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes moveIn {
+  0% {
+    bottom: -5%;
+  }
+
+  100% {
+    bottom: 5%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  iframe {
+    width: 50%;
+    height: 15%;
+    bottom: 10%;
+    animation: moveInMobile 1s ease;
+  }
+
+  .affirmation-text {
+    font-size: 2.5rem;
+  }
+
+  @keyframes moveInMobile {
+    0% {
+      bottom: -5%;
+    }
+
+    100% {
+      bottom: 10%;
+    }
+  }
+}

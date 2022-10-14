@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>TIME</title>
+</head>
+
+<body>
+    <button onclick="setInterval(display,1000)">Show Time</button>
+
+    <h1 id="time"></h1>
+
+    <script>
+        function display() {
+            var timenow = new Date();
+            var timeelement = document.getElementById("time");
+            var hours = timenow.getHours();
+            var minutes = timenow.getMinutes();
+            var seconds = timenow.getSeconds();
+
+            timeelement.innerHTML = timenow;//hours + ":" + minutes + ":" + seconds;
+
+
+        }
+
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,3 @@
+Inorder to run this program, Please put the code and the text file (all_items.txt) in the same folder.
+OTHERWISE , program would be unable to find the file.
+------------------- Thank You !!!! --------------------

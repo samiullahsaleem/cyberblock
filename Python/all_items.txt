@@ -1,0 +1,10 @@
+cooking oil,400
+sugar,100
+tea,1000
+floor,1700
+pepper,100
+salt,150
+rice,320
+milk,120
+coffee,400
+haldi,150
