@@ -156,6 +156,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Seher-Kanwal">
+            <img src="https://avatars.githubusercontent.com/u/92606737?v=4" width="100;" alt="Seher-Kanwal"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/shubhambaghel34">
             <img src="https://avatars.githubusercontent.com/u/21123907?v=4" width="100;" alt="shubhambaghel34"/>
             <br />
@@ -182,20 +189,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Ridsa Shabbir</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Myrausman">
             <img src="https://avatars.githubusercontent.com/u/99428378?v=4" width="100;" alt="Myrausman"/>
             <br />
             <sub><b>Maira Usman</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Seher-Kanwal">
-            <img src="https://avatars.githubusercontent.com/u/92606737?v=4" width="100;" alt="Seher-Kanwal"/>
-            <br />
-            <sub><b>Null</b></sub>
         </a>
     </td>
     <td align="center">
