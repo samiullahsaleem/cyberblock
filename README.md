@@ -97,7 +97,10 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Matplotlib
     - Seaborn
     - Numpy
-    - Regression
+    - Linear Regression with single variables
+    - Linear Regression with multiple variables
+    - Lasso Regression
+    - Ridge Regression
 
 
 ## Special Mentions for Contributors
