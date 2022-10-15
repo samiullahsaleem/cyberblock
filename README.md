@@ -417,6 +417,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Anuthra1997">
+            <img src="https://avatars.githubusercontent.com/u/85834948?v=4" width="100;" alt="Anuthra1997"/>
+            <br />
+            <sub><b>Anuthra Muthukumara</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/areebamuzammil">
             <img src="https://avatars.githubusercontent.com/u/73306700?v=4" width="100;" alt="areebamuzammil"/>
             <br />
@@ -443,15 +450,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Farhan Ashraf</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/fasihullahsaleem">
             <img src="https://avatars.githubusercontent.com/u/97796711?v=4" width="100;" alt="fasihullahsaleem"/>
             <br />
             <sub><b>Fasih Ullah Saleem</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/gaurav1205">
             <img src="https://avatars.githubusercontent.com/u/23035869?v=4" width="100;" alt="gaurav1205"/>
@@ -486,15 +493,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Kshitij Verma</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/laibakamal">
             <img src="https://avatars.githubusercontent.com/u/84386567?v=4" width="100;" alt="laibakamal"/>
             <br />
             <sub><b>LAIBA KAMAL</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/RmNj17">
             <img src="https://avatars.githubusercontent.com/u/90838977?v=4" width="100;" alt="RmNj17"/>
@@ -521,13 +528,6 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <img src="https://avatars.githubusercontent.com/u/75787251?v=4" width="100;" alt="mkhuzaima"/>
             <br />
             <sub><b>Muhammad Khuzaima Umair</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MananDev">
-            <img src="https://avatars.githubusercontent.com/u/88824142?v=4" width="100;" alt="MananDev"/>
-            <br />
-            <sub><b>Muhammad Manan</b></sub>
         </a>
     </td>
     <td align="center">
