@@ -1,0 +1,258 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body,html{width:100%;height:100%}body{-webkit-font-smoothing:antialiased;-moz-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-text-size-adjust:none;margin:0;padding:0;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}ol,ul{list-style:none}hr{border:0;height:1px;background:rgb(188, 153, 199)}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}*{margin:0;padding:0;list-style:none;box-sizing:border-box}html,input,select,textarea,button,a{-webkit-tap-highlight-color:rgba(0,0,0,0)}
+
+
+.outer{
+    /* background-color: rgb(195, 125, 125); */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: wheat;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.container{
+    background-color: rgb(226, 202, 225);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    margin-top: 1px;
+
+}
+.header{
+    background-color: rgb(182, 61, 162);
+    min-height: 80px;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 5;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 0px 2px 6px rgba(214, 165, 212, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header input{
+    width: 85%;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 400;
+    outline: none;
+    padding: 0px 60px 0 18px;
+    background: rgb(255, 255, 255, 0.2);
+    border: 0px;
+    color: #fff;
+    box-shadow: none;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+}
+.header ::-webkit-input-placeholder{
+    color: rgb(193, 223, 214);
+    padding: 10px;
+    font-size: 15px;
+}
+.header button{
+    width: 49px;
+    height: 49px;
+    border-radius: 50%;
+    color: rgb(212, 138, 200);
+    background-color: rgb(250, 250, 250);
+    margin-left: -50px;
+    z-index: 7;
+    box-shadow: none;
+    border: 0px;
+    outline: none;
+
+
+
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    -moz-appearance: none;
+    -ms-progress-appearance: none;
+}
+
+.header button svg{
+    width: 20px;
+    height: 20px;
+    color: rgba(165, 113, 162, 0.507);
+
+    outline: none;
+    cursor: pointer;
+}
+.header button svg .fill {
+    fill: #b425b9;
+}
+
+.content{
+    color: #643b5f;
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+ul{
+    margin-bottom: 40px;
+    
+}
+
+ul.todo li{
+    background: #fff;
+    min-height: 50px;
+    float: left;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 500;
+    color:#444;
+    line-height: 22px;
+    margin-bottom: 7px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 2px rgb(87, 175, 84, 0.5);
+    position: relative;
+    padding: 12px 100px 14px 0px;
+}
+ul.todo li:last-of-type{
+    background: #fff;
+    height: 50px;
+    float: left;
+    width: 100%;
+    margin: 0;
+    border-radius: 5px;
+    box-shadow: 0px 1px 2px rgb(87, 175, 84, 0.5);
+}
+
+ul.todo li .buttons{
+    height: 50px;
+    width: 100px;
+    position:absolute;
+    top:0;
+    right: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+ul.todo li .buttons button svg{
+    width: 25px;
+    height: 25px;
+    color: rgba(165, 113, 165, 0.507);
+    margin-top: -4px;
+    outline: none;
+    cursor: pointer;
+}
+ul.todo li .buttons button svg .fill {
+    fill: #9b9b9b;
+}
+ul.todo li .buttons button{
+    height: 50px;
+    width: 50px;
+    background: none;
+    box-shadow: none;
+    border: 0px;
+    outline: none;
+    position: relative;
+
+
+
+
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    -moz-appearance: none;
+    -ms-progress-appearance: none;
+}
+
+ul.todo li .buttons button:last-of-type::after{
+    content: "";
+    width: 1.5px;
+    height: 25px;
+    background-color: #bac7c6;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    
+
+}
+
+.nofill{
+    fill: none;
+}
+
+
+ul#completed li .buttons button.check svg{
+    background-color: #800a95;
+    border: none;
+} 
+ul#completed li .buttons button.check:hover svg{
+    background-color: #725080;
+}
+ul#completed li .buttons button.check svg .fill{
+    fill: #fff;
+} 
+ul.todo li .buttons button svg {
+    height: 22px;
+    width: 22px;
+
+}
+ul.todo li .buttons button svg .fill{
+    transition: fill 0.2s ease;
+}
+ul.todo li .buttons button.remove svg .fill{
+    fill: #5a4a57;
+}
+ul.todo li .buttons button.remove:hover svg .fill{
+    fill: #da0e1f;
+}
+
+ul.todo li .buttons button.check svg .fill{
+
+    fill: #634c64;
+}
+ul.todo li .buttons button.check:hover svg .fill{
+    fill: #fff;
+}
+ul.todo li .buttons button.check:hover svg {
+    background-color: #977597;
+}
+ul.todo li .buttons button.check svg{
+    border-radius: 10px;
+    border: 2px solid #900a95;
+}
+ul.todo#completed { 
+    padding: 20px 0 0 0 ;
+}
+ul.todo#completed::before{
+    content: "";
+    width: 150px;
+    height: 1px;
+    background: #5a4a59;
+    position: absolute;
+    top: 30px;
+    left:50%;
+    margin: 0 0 0 -75px;
+}
+ ul.todo#todo:empty::before {
+    content: "You have nothing to do! ";
+}
+ul.todo#completed:empty::after{
+    content: "You have yet to complete any task";
+} 
+ul.todo#todo::after,
+ul.todo#completed::after {
+    width: 100%;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    color: #643b5f;
+
+    
+}
