@@ -1,0 +1,2 @@
+A simple Web App using Flask to Visualize CSV/Excel data
+Sometime we need to look alot of data from excel and when center cell data has more than 20 or 30 words then its very difficult to read. So by using a filehandling technique in flask with ajax at front end you can easily check certain data using specific ID assigned. This will not only provide UI functionality but also can save alot of time.
