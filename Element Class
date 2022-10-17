@@ -1,0 +1,101 @@
+from datetime import datetime
+class Element:
+    def __init__(self, value):
+        self.__value=value
+        self.__hour=0
+        self.__mint=0
+        self.__sec=0
+        self.__count=0
+        self.now()
+    def now(self):
+        dt=datetime.now()
+        print(f'Current time is: {dt.hour}:{dt.minute}:{dt.second}')
+        self.__hour=dt.hour
+        self.__mint=dt.minute
+        self.__sec=dt.second
+        self.__count+=1
+    def __str__(self):
+        dt=datetime.now()
+        return str(self.__value)+" - "+str(self.__hour)+":"+str(self.__mint)+":"+str(self.__sec)+" "+"("+str(self.__count)+")"
+    def set_count_time(self,count,dt):
+        self.__count=count
+        dt=dt.split(":")
+        self.__hour=int(dt[0])
+        self.__mint=int(dt[1])
+        self.__sec=int(dt[2])
+    def get_value(self):
+        return self.__value
+    def get_count(self):
+        return self.__count
+    def get_hour(self):
+        return self.__hour
+    def print_time(self):
+        print (f'{self.__hour}:{self.__mint}:{self.__sec}')
+    def __eq__(self,new_object):
+        self.now()
+        new_object.now()
+        if self.__value==new_object.__value:
+            return True
+        else:
+            return False
+    def __gt__(self,new_object):
+        self.now()
+        new_object.now()
+        if self.__value > new_object.__value:
+            return True
+        else :
+            return False
+    def __lt__(self,new_object):
+        self.now()
+        new_object.now()
+        if self.__value < new_object.__value:
+            return True
+        else :
+            return False
+    def increment_by(self,n):
+        self.now()
+        self.__value +=n
+    def is_older(self,new_object):
+        if self.__hour < new_object.__hour:
+            if self.__mint < new_object.__mint:
+                if self.__sec < new_object.__sec:
+                    return True
+        else:
+            return False
+    def is_equal_time(self,new_object):
+        if self.__hour == new_object.__hour:
+            if self.__mint == new_object.__mint:
+                if self.__sec == new_object.__sec:
+                    return True
+        else:
+            return False
+
+    def is_more_frequent(self,new_object):
+        if self.__count==new_object.__count:
+            return True
+        else:
+            return False
+def main():
+    e1=Element(10)
+    e2=Element(20)
+    print(e1)
+    print(e2)
+    print(e1.get_value())
+    print(e2.set_count_time(10,"1:1:1"))
+    print(set_count_time(20,"2:2:2"))
+
+    print(e1.get_value())
+    print(e1.get_count())
+    print(e1.get_hour())
+    e1.print_time()
+    print(e1 == e2)
+    print(e1>e2)
+    print(e1<e2)
+    e1.increment_by(5)
+    e2.increment_by(10)
+    print(e1)
+    print(e2)
+    print(e1.is_older(e2))
+    print(e2.is_equal_time(e1))
+    print(e1.is_more_frequent(e2))
+main()
