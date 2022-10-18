@@ -8,6 +8,7 @@ and displays the current market price.
 import requests
 import sys
 
+#defining main function
 def main():
     #requesting
     json_ = requests.get("https://api.coindesk.com/v1/bpi/currentprice.json")
