@@ -1,0 +1,51 @@
+<html>
+
+<head>
+    <title>
+        E ELECTRIFY
+    </title>
+    <script type="text/javascript">
+        function calc() {
+
+            var E = parseFloat(document.getElementById("E").value)
+            var T = parseFloat(document.getElementById("T").value)
+            var U = parseFloat(document.getElementById("U").value)
+
+
+            var op = document.getElementById("opr").value
+
+            document.getElementById('result').value = ((E * T) / 1000) * U;
+
+        }
+    </script>
+</head>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="faulty.css">
+
+<body>
+
+
+
+    <h3 class="pbox">Developer - Jigyanshu Kumar <br> Galgotias University</h3>
+    <p> --> This website will Help you to calculate cash flow per unit electicity.<br> "The Amount Of Money Consume By Your Device In a Given Time". <br> --> It will help you to buy electronics appliances with less confusion. </p>
+    <div class="box">
+        <h1>
+            Now you can calculate the amount of electric money consume by your Device
+        </h1>
+
+        <div class="text">
+            Power Consumption of Your Device(Watt):<br><input type="text" id="E" maxlength="7" value="0.0">
+            <br><br> Usable Time Of Your Device(Hrs):<br> <input type="text" id="T" maxlength="7" value="00">
+            <br><br> Price of Electricity Per Unit In Your Area:<br> <input type="text" id="U" maxlength="7" value="0.0">
+        </div>
+        <br><br>
+        <div id="opr"></div>
+        <div class="btn"><input type="Button" value="Calculate" onclick="calc();"></div>
+        <br><br>
+        <div class="answer"> Your device consumed this amount of money in your given time:<br><input type="text" id="result"><br><br></div>
+
+    </div>
+
+</body>
+
+</html>
