@@ -1,0 +1,84 @@
+body h3 {
+    color: #ffd400d1;
+    font-weight: bold;
+    font-size: 20px;
+    /* border: 0px solid white; */
+    width: 20%;
+    margin: 3px 0px;
+}
+
+
+/* 
+.para {
+    border: 1px solid white;
+    font-size: 16px;
+    width: 20%;
+    margin: 90px right;
+    color: white; */
+
+body {
+    background: url(bulb2.jpg) no-repeat center center/cover;
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+body p {
+    color: #ffffffa6;
+    font-size: 20px;
+}
+
+.box {
+    position: relative;
+    width: 50%;
+    padding: 1px;
+    background: rgba(255, 255, 255, .06);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    margin: -11px auto;
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    font-style: unset;
+    color: #ffffff;
+}
+
+.box input {
+    width: 228px;
+    padding: 7px 13px 9px;
+    font-size: large;
+    border-radius: 7px;
+}
+
+.btn input {
+    margin: 2px auto;
+    font-size: large;
+    cursor: pointer;
+    font-weight: bolder;
+    color: black;
+}
+
+.btn input:hover {
+    background-color: black;
+    color: white;
+}
+
+.answer {
+    margin: 2px auto;
+    font-size: 32px;
+    color: black;
+}
+
+.pbox {
+    border: 1px solid black;
+    width: 100%;
+    background-color: black;
+    background-attachment: sticky;
+}
+
+.text {
+    font-size: 32px;
+    color: #ffffff;
+}
