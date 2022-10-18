@@ -1,0 +1,58 @@
+@import "../../styles.scss";
+.headerContainer {
+    position: relative;
+    height: auto;
+    width: 100%;
+    background-color: $background;
+    display: flex;
+}
+
+.tabs {
+    position: relative;
+    display: block;
+    top: 0px;
+    left: 10%;
+    max-width: 70%;
+    flex: 1;
+    padding-top: 30px;
+}
+
+.tabs a {
+    color: white;
+    font-size: 1.5vw;
+    text-decoration: none;
+    font-weight: bold;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.tabs a:hover {
+    background-color: grey;
+}
+
+.logo {
+    position: relative;
+    height: 150px;
+    width: auto;
+    left: 50px;
+}
+
+.AddMovieBtn {
+    background: none;
+    color: white;
+    border: none;
+    outline: none;
+    font-size: 1.3vw;
+    font-weight: bold;
+    cursor: pointer;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.AddMovieBtn:hover {
+    background-color: grey;
+}
