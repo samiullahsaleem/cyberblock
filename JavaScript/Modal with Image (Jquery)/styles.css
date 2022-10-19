@@ -1,0 +1,8 @@
+body {
+    background-image: url("back.jpg");
+    background-position: center;
+}
+.modal-content{
+    background-color: #1C1E1F!important;
+    background-position: center;
+}
