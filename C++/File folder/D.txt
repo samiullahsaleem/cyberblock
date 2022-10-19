@@ -1,0 +1,2 @@
+C:\Users\Misbah_Aziz\Desktop\2nd semester\Programming fundamentals\File folder\b.cpp	In function 'int main()':
+6	13	C:\Users\Misbah_Aziz\Desktop\2nd semester\Programming fundamentals\File folder\b.cpp	[Error] range-based 'for' loops are not allowed in C++98 mode
