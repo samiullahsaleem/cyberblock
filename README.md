@@ -617,13 +617,20 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ImranJaved1073">
+            <img src="https://avatars.githubusercontent.com/u/96229355?v=4" width="100;" alt="ImranJaved1073"/>
+            <br />
+            <sub><b>Imran Javed</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/imran2001">
             <img src="https://avatars.githubusercontent.com/u/54732152?v=4" width="100;" alt="imran2001"/>
             <br />
             <sub><b>IMRAN NAZIR</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/JeevanSainik789">
             <img src="https://avatars.githubusercontent.com/u/115283993?v=4" width="100;" alt="JeevanSainik789"/>
@@ -658,15 +665,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Manoj Khatri</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mayxnk">
             <img src="https://avatars.githubusercontent.com/u/105148831?v=4" width="100;" alt="mayxnk"/>
             <br />
             <sub><b>Mayank Rastogi</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Muhammad-Jawwad">
             <img src="https://avatars.githubusercontent.com/u/98478303?v=4" width="100;" alt="Muhammad-Jawwad"/>
@@ -701,15 +708,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ritam077">
             <img src="https://avatars.githubusercontent.com/u/115361914?v=4" width="100;" alt="ritam077"/>
             <br />
             <sub><b>Ritam Kumar Kundu</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/saadali05">
             <img src="https://avatars.githubusercontent.com/u/79059375?v=4" width="100;" alt="saadali05"/>
@@ -744,15 +751,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Talal Ahmed Khan</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/TubaSid">
             <img src="https://avatars.githubusercontent.com/u/57428557?v=4" width="100;" alt="TubaSid"/>
             <br />
             <sub><b>Tuba Siddiqui</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/beer-idev">
             <img src="https://avatars.githubusercontent.com/u/34055979?v=4" width="100;" alt="beer-idev"/>
@@ -787,15 +794,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Iqra Sarwar</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Jiaveria">
             <img src="https://avatars.githubusercontent.com/u/96389330?v=4" width="100;" alt="Jiaveria"/>
             <br />
             <sub><b>Javeria Jameel</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Jigyanshukumar">
             <img src="https://avatars.githubusercontent.com/u/61023763?v=4" width="100;" alt="Jigyanshukumar"/>
@@ -830,15 +837,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/sharozraees802">
             <img src="https://avatars.githubusercontent.com/u/52934734?v=4" width="100;" alt="sharozraees802"/>
             <br />
             <sub><b>Sharoz Raees</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/syedowaisalishah">
             <img src="https://avatars.githubusercontent.com/u/113125582?v=4" width="100;" alt="syedowaisalishah"/>
