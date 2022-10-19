@@ -1,0 +1,78 @@
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+    font-family: 'Poppins', sans-serif;
+
+}
+.donation-page {
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("image/maxresdefault.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    opacity: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    opacity: 100%;
+    width: 100%;
+    color: rgba(252, 162, 17, 0.75);
+    text-align: center;
+}
+
+.discription {
+    opacity: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+.form {
+    opacity: 1;
+    height: 80vh;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 2rem 5rem 0 rgba(252, 162, 17, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    z-index: 10;
+}
+
+.form>* {
+    width: 80%;
+}
+
+input {
+    height: 2rem;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+span {
+    color: #f9004d;
+}
+
+@media only screen and (max-width: 600px) {
+    .form {
+        width: 80%;
+    }
+}

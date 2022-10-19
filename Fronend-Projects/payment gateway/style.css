@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,900;1,200;1,300;1,400;1,800;1,900&display=swap');
+
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.li a button{
+
+	font-family: "Nunito Sans", sans-serif;
+
+	font-weight: 800;
+
+	font-size: 25px;
+
+	color: white;
+
+	text-decoration: none;
+
+}
+
+
+
+
+
+.header{
+
+    min-height: 100vh;
+
+    width: 100%;
+
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(image/photo.jpg);
+
+    background-position: center;
+
+    background-size: cover;
+
+    position: relative;
+
+}
+
+.work_1{
+
+	display: flex;
+
+	justify-content: space-between;
+
+	align-items: center;
+
+	padding: 30px 10%;
+}
+
+.logo
+
+{
+
+	cursor: pointer;
+
+
+
+}
+
+nav .nav_link{
+
+	list-style: none;
+
+	cursor: pointer;
+
+}
+
+nav .nav_link li {
+
+	display: inline-block;
+
+	padding-left: 50px;
+
+	padding: 0px 20px;
+
+}
+
+
+
+nav .nav_link li a{
+
+	transition: all 0.3s ease 0s;
+
+	font-family: "Nunito Sans", sans-serif;
+
+	font-weight: 200;
+
+	font-size: 20px;
+
+	color: white;
+
+	text-decoration: none;
+
+	color: #fff;
+
+}
+
+
+
+nav .nav_link li a:hover{
+
+	color: rgb(255, 0, 0);
+
+}
+
+
+
+button{
+
+ padding: 9px 25px;
+
+ background-color: rgb(255, 230, 0);
+
+ border: none;
+
+ border-radius: 50px;
+
+ cursor: pointer;
+
+ transition: all 0.3s ease 0s;
+
+}
+
+h1{
+
+	text-align: center;
+
+	font-size: 100px;
+
+	padding-top: 150px;
+
+	color: white;
+
+
+
+}
+
+
+
+button:hover{
+
+	background-color: rgb(255, 0, 0);	
+    border-radius: 50px;
+    border: 5px;
+    border-color: red;
+    
+
+
+}
+
+
+
+.rounded_con{
+
+	text-align: center;
+
+	padding-top: 120px;
+
+	
+
+
+
+	
+
+}
+
+.rounded_con img{
+
+border-radius: 50%;
+
+padding: 55px;
+
+border: 3px solid transparent;
+
+background: rgb(255, 0, 0);
+
+	padding: 3px ;
+
+}
+
+
+
+.vid{
+
+	padding: 50px;
+
+	text-align: center;
+
+}
+
+
+
+.inner-footer{
+
+	margin: 0;
+
+	padding: 0;
+
+	background-color: #272727;
+
+}
+
+.social-links{
+
+	display: flex;
+
+	
+
+}
+
+
+
+.social-links ul{
+
+	padding: 20px;
+
+	display: flex;
+
+	text-align: center;
+
+	width: 350px;
+
+	height: 30px;
+
+	margin: auto;
+
+}
+
+
+
+.social-item{
+
+	list-style: none;
+
+	align-items: center;
+
+	
+
+}
+
+
+
+.social-item a{
+
+	padding: 10px 30px;
+
+	font-size: 30px;
+
+	
+
+	color: white;
+
+
+
+}
+
+
+
+.outer-footer{
+
+	padding: 10px;
+
+	text-align: center;
+
+	color: white;
+
+	font-size: 17px;
+
+	background-color: #3f3f3f;
+
+}
