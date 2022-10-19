@@ -797,6 +797,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/Nishii4u">
+            <img src="https://avatars.githubusercontent.com/u/91430096?v=4" width="100;" alt="Nishii4u"/>
+            <br />
+            <sub><b>Priya Yadav</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ritam0077">
             <img src="https://avatars.githubusercontent.com/u/115919691?v=4" width="100;" alt="ritam0077"/>
             <br />
