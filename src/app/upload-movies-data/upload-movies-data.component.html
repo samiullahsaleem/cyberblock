@@ -1,0 +1,13 @@
+<div class="UploadDataContainer">
+    <button (click)="closeMovieAdd()" class="closeBtn">X</button>
+    <h1>Add Movie Info</h1>
+    <input type="text" class="movieDataInput" placeholder="Moviename" [(ngModel)]="UmovieName">
+    <input type="text" class="movieDataInput" placeholder="Review" [(ngModel)]="UmovieReview">
+    <textarea type="text" class="movieDataText" placeholder="Discription" [(ngModel)]="UmovieDiscription"></textarea><br>Poster {{UploadProgress1}}%
+    <input type="file" class="movieDataFile" placeholder="uploadImage" [(ngModel)]="UimageSource" (change)="chooseFile($event)"> mainImage {{UploadProgress2}}%
+    <input type="file" class="movieDataFile" placeholder="uploadImage" [(ngModel)]="UmainImageSource" (change)="chooseMainFile($event)">
+    <img src="{{imgLoading}}" class="LoadingImage">
+    <button (click)="uploadMovieData()">Upload data</button>
+    <!-- <button (click)="RetriveMovieData()">Retrive data</button> -->
+</div>
+<div class="overlay"></div>
