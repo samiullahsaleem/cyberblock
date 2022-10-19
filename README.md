@@ -302,6 +302,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Uzair-math">
+            <img src="https://avatars.githubusercontent.com/u/114463696?v=4" width="100;" alt="Uzair-math"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/VedantKhairnar">
             <img src="https://avatars.githubusercontent.com/u/42309779?v=4" width="100;" alt="VedantKhairnar"/>
             <br />
@@ -314,15 +321,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Zeeshan Latif</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hassanaamir12">
             <img src="https://avatars.githubusercontent.com/u/80892294?v=4" width="100;" alt="hassanaamir12"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/unsmuhammad">
             <img src="https://avatars.githubusercontent.com/u/107023053?v=4" width="100;" alt="unsmuhammad"/>
@@ -357,15 +364,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>KHADEEJAH ASHRAF</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/kashif0313">
             <img src="https://avatars.githubusercontent.com/u/65242138?v=4" width="100;" alt="kashif0313"/>
             <br />
             <sub><b>Kashif0313</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/MuhammadSaad000">
             <img src="https://avatars.githubusercontent.com/u/67402416?v=4" width="100;" alt="MuhammadSaad000"/>
@@ -392,13 +399,6 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <img src="https://avatars.githubusercontent.com/u/67449314?v=4" width="100;" alt="samitiz"/>
             <br />
             <sub><b>USAMA MALOOK</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Uzair-math">
-            <img src="https://avatars.githubusercontent.com/u/114463696?v=4" width="100;" alt="Uzair-math"/>
-            <br />
-            <sub><b>Null</b></sub>
         </a>
     </td>
     <td align="center">
