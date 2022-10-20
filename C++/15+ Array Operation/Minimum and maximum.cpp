@@ -19,27 +19,31 @@ int main(){
         cout<<"Enter element "<<i+1<<endl;
         cin>>arr[i];
     }
-    
+    int maxc=minc=0;
     max= min=arr[0];
     for(i=0; i<n; i++){
-        if(max<arr[i]){
+        if(max<arr[i])
+        {
             max=arr[i];
+            maxc=i;
         }
        
         
     }
-     cout<<"The maximum value is: "<< max;
+     cout<<"The maximum value is: "<< max<< " stored at index : " << maxc<< " in the array " << endl;
     
     // Minimum value 
         for(i=0; i<n; i++){
-        if(min>arr[i]){
+        if(min>arr[i])
+        {
             min=arr[i];
+            minc=i;
         }
        
         
     }
     
-    cout<<"The minimum value is "<<min;
+    cout<<"The minimum value is "<<min<< "stored at index : " << minc<< " in the array "<< endl;
     
     
     
