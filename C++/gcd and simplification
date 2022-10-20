@@ -1,0 +1,126 @@
+#include<iostream>
+using namespace std;
+class Fraction
+{
+public:
+	int num;
+	int den;
+	int gcd();
+public:
+	//default constructor
+	Fraction()
+	{
+		num = 0;
+		den = 2;
+	}
+	//parametrize constructor
+	Fraction(int x, int y)
+	{
+		num = x;
+		den = y;
+	}
+	//copy constructor
+	Fraction(Fraction& f)
+	{
+		this->num = f.num;
+		this->den = f.den;
+	}
+	//destructor
+	~Fraction()
+	{
+		//cout << "object is destroyed" << endl;
+	}
+	int gcd(int num, int den)
+	{
+		int gcd;
+		for (int i = 10; i >= 2; i--)
+		{
+			if (den % i == 0 && num % i == 0)
+			{
+				return i;
+				cout << i;
+			}
+		}
+	}
+	//getter functions
+	int getdenominator()
+	{
+		cout << "enter denominator" << endl;
+		cin >> den;
+		if (den == 0)
+		{
+			cout << "ERROR! INVALID INPUT" << endl << "ENTER INPUT AGAIN\n";
+			cin >> den;
+		}
+		else
+			return den;
+	}
+	int getnumerator()
+	{
+		cout << "enter numerator" << endl;
+		cin >> num;
+		return num;
+	}
+	//setter functions
+	void setdenominator(int d)
+	{
+		den = d;
+
+	}
+	void setnumerator(int n)
+	{
+		num = n;
+	}
+	void display(Fraction& f)
+	{
+		cout << "fraction = " << num << " / " << den << endl;
+	}
+  double reduce()
+	{
+		cout << "ENTER THE FRACTION YOU WANT TO REDUCE : " << endl;
+		cout << "enter denominator" << endl;
+		cin >> den;
+		if (den == 0)
+		{
+			cout << "ERROR! INVALID INPUT" << endl << "ENTER INPUT AGAIN\n";
+			cin >> den;
+		}
+		else
+		{
+			cout << "enter numerator" << endl;
+			cin >> num;
+		}
+		double val = 0;
+		
+		for (int i = 0; i <= 10; i++)
+		{
+			if (den % i == 0 && num % i == 0)
+			{
+				den = den / i;
+				num = num / i;
+			}
+		}
+		cout << "AFTER SIMPLAIFICATION : " << endl;
+		cout<< num << "/"<<  den;
+		
+		return val;
+	}
+};
+
+using namespace std;
+int main()
+{
+	Fraction a;
+	int d;
+	d=a.getdenominator();       //getter
+	a.setdenominator(d);        //setter
+	int n;
+	n=a.getnumerator();
+	a.setnumerator(n);
+	Fraction b = a;             //copy constructor
+	b.display(b);
+	//gcd
+	cout << "GCD = " << a.gcd(a.num, a.den) << endl;
+	//reduce 
+	a.reduce();
+  }
