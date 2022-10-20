@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
 	int* ptr;
+	int* rev;
 	int size;
 	cout << "Enter the size : ";
 	cin >> size;
@@ -12,11 +13,22 @@ int main()
 		cout << "Enter the element:";
 		cin >> ptr[i];
 	}
-	for (int i = size-1; i >= 0; i--)
+	rev = new int[size];
+	int x = 0;
+	for (int i = size - 1; i >= 0; i--)
 	{
-		cout << ptr[i] << "\t";
+		rev[x] = ptr[i];
+		x++;
+	}
+	//reversed array
+	for (int i = 0; i < size; i++)
+	{
+		cout << "reversed array : ";
+		cout << rev[i] << endl;
 	}
 	delete[] ptr;
 	ptr = nullptr;
+	delete [] rev;
+	rev= nullptr;
 	return 0;
 }
