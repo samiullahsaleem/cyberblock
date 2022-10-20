@@ -1,0 +1,83 @@
+.latestMovies {
+    position: relative;
+    display: flex;
+    overflow: auto;
+    height: 500px;
+}
+
+.latestImages {
+    position: relative;
+    min-width: 100%;
+}
+
+.selectedTitle {
+    position: absolute;
+    left: 07px;
+    padding-left: 5%;
+    padding-top: 5%;
+    z-index: 1;
+    font-size: 3vw;
+    max-width: 40%;
+    height: 400px;
+    background: linear-gradient(to right, black, black, transparent);
+    color: white;
+}
+
+.selectedTitle p {
+    font-size: 2vw;
+}
+
+.iconOverlay {
+    width: auto;
+    height: 100%;
+    object-fit: contain;
+    filter: invert(100%);
+}
+
+.addToLibrary {
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 1.5vw;
+    background-color: grey;
+}
+
+.addToLibrary:hover {
+    background-color: white;
+    color: black;
+}
+
+.addToLibrary:hover .iconOverlay {
+    filter: invert(0%);
+}
+
+.prompt {
+    position: absolute;
+    top: 0;
+    left: 35%;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 0px;
+    width: 300px;
+    text-align: center;
+    justify-content: center;
+    transition: 0.3s ease-in-out;
+    overflow: hidden;
+    opacity: 0;
+    font-size: 1.5vw;
+    padding-bottom: 2%;
+}
+
+.closeBtn {
+    padding: 2%;
+    background-color: black;
+    color: white;
+    font-size: 1.2vw;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
