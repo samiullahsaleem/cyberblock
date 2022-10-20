@@ -4,7 +4,8 @@ const int ROWS = 3;
 const int COLS = 3; 
 int main()
 {
-	int arr[ROWS][COLS],sum = 0;
+	int arr[ROWS][COLS],sum_left = 0;
+	int sum_right=0;
 	cout << "Enter the Nmubers Of Diagonal:" << endl;
 	for (int i = 0; i < ROWS; i++)
 	{
@@ -28,12 +29,16 @@ int main()
 		{
 			if (i == j)
 			{
-				sum = sum + arr[i][j];
+				sum_left = sum_left + arr[i][j];
 			}
-		}
+			if((i+j) == SIZE-1)
+			{
+				sum_right += matrix[i][j];
+			}
 
 	}
-	cout << "Sum Of Left Diagonal Elements:" << sum<<endl;
+	cout << "Sum Of Left Diagonal Elements:" << sum_left <<endl;
+	cout << "Sum Of Right Diagonal Elements:" << sum_right <<endl;
 	return 0;
 	
 
