@@ -1,0 +1,23 @@
+.table{
+    width: 600px;
+    text-align: center;
+}
+table{
+    width: 100%;
+    margin-left: 50%;
+    margin-right: 50%;
+    border-collapse: collapse
+}
+table tr td{
+    width: 50%;
+    border: 2px solid #DEE2E6;
+    padding: 5px;
+}
+table tr th{
+    width: 50%;
+    border: 2px solid #DEE2E6;
+    padding: 5px;
+}
+.style{
+    background-color: #F2F2F2;
+}
