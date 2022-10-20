@@ -1,0 +1,39 @@
+.coverMovie {
+    position: relative;
+    height: 400px;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 5%;
+}
+
+.movieCoverimg {
+    position: relative;
+    border: 2px solid white;
+    border-radius: 20px;
+    height: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.hoverInfo {
+    position: absolute;
+    height: 0;
+    width: 90%;
+    background-color: white;
+    bottom: 0%;
+    transition-duration: 0.8s;
+    padding-bottom: 5%;
+    text-align: center;
+    justify-content: center;
+    object-fit: contain;
+    left: 5%;
+    overflow: hidden;
+    opacity: 0;
+}
+
+.movieCoverimg:hover+.hoverInfo {
+    height: 25%;
+    transition-duration: 0.5s;
+    opacity: 1;
+}

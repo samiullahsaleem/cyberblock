@@ -1,0 +1,1 @@
+install firebase to your project and then add this folder files to src of your project

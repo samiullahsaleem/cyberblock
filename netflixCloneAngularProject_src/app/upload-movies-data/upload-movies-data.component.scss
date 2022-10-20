@@ -1,0 +1,80 @@
+.UploadDataContainer {
+    position: absolute;
+    background: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    height: auto;
+    width: auto;
+    z-index: 6;
+    justify-content: center;
+    text-align: center;
+    border-radius: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    top: 10%;
+    left: 40%;
+}
+
+.movieDataInput {
+    position: relative;
+    outline: none;
+    border: none;
+    padding: 3%;
+    display: block;
+    margin-bottom: 5%;
+    font-size: 1.2vw;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.movieDataText {
+    position: relative;
+    outline: none;
+    border: none;
+    padding: 3%;
+    display: block;
+    border-bottom: 1px solid black;
+    margin-bottom: 5%;
+    font-size: 1.2vw;
+    text-align: center;
+}
+
+.movieDataFile {
+    position: relative;
+    outline: none;
+    border: 1px soild black;
+    padding: 3%;
+    margin-bottom: 5%;
+    display: block;
+    border-radius: 5%;
+    text-align: center;
+}
+
+.closeBtn {
+    padding: 2%;
+    background-color: black;
+    color: white;
+    font-size: 1.2vw;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.LoadingImage {
+    position: relative;
+    height: 60px;
+    width: auto;
+    display: block;
+    left: 40%;
+    margin-bottom: 3%;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(100, 100, 100, 0.7);
+    top: 0;
+    z-index: 5;
+}

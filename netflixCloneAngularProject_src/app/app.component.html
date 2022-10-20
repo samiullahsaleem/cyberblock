@@ -1,0 +1,16 @@
+<div class="mainContainer">
+    <app-header [showAddValue]="showValue" (newItemEvent)="addItem($event)" (newLibrary)="openLibrary($event)" (newLibrary1)="toggleShowHome($event)"></app-header>
+
+    <div class="selectedTitle">
+        {{movieTitle}}
+        <p>{{movieDisc}}</p>
+        <button class="addToLibrary" (click)="addMovieLibray()"><img src="../assets/plus-circle.svg" class="iconOverlay" />  Add to Library</button>
+    </div>
+    <div class="latestMovies">
+        <img src="{{mainImageSrc}}" class="latestImages" id="imageSrcMain">
+    </div>
+
+    <app-movies [style.display]="diaplayMoviesHome" *ngFor='let doc of newArray' coversrc={{doc.imageSource}} infoMovie={{doc.movieName}} review={{doc.review}} (click)="changeMainImg(doc.poster , doc.movieName , doc.discription,doc.id,doc.imageSource)"></app-movies>
+    <app-upload-movies-data (CloseAddMovieContainer)="addItem($event)" *ngIf="showValue"></app-upload-movies-data>
+    <div class="prompt" [style.height]="pBox" [style.opacity]="pBoxOpacity"><button (click)="closePrompt()" class="closeBtn">x</button><br>{{promptText}}</div>
+</div>
