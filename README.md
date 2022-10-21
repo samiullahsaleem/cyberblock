@@ -1045,6 +1045,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/zuni777">
+            <img src="https://avatars.githubusercontent.com/u/116331520?v=4" width="100;" alt="zuni777"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
