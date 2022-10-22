@@ -1,18 +1,13 @@
-def lcm(x, y):
-   if x > y:
-       greater = x
-   else:
-       greater = y
 
-   while(True):
-       if((greater % x == 0) and (greater % y == 0)):
-           lcm = greater
-           break
-       greater += 1
+def LCM(a,b):
+    loop = a*b
+    for i in range(max(a,b), loop+1):
+        if i % a== 0 and i % b == 0:
+            return i
 
-   return lcm
+def main():
+    a = int(input())
+    b = int(input())
 
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter another number: "))
-
-print("The L.C.M. is", lcm(num1, num2))
+    print(LCM(a,b))
+main()
