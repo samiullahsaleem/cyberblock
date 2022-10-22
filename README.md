@@ -342,6 +342,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/SubhanuSRoy">
+            <img src="https://avatars.githubusercontent.com/u/71728589?v=4" width="100;" alt="SubhanuSRoy"/>
+            <br />
+            <sub><b>Subhanu Sankar Roy</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Uzair-math">
             <img src="https://avatars.githubusercontent.com/u/114463696?v=4" width="100;" alt="Uzair-math"/>
             <br />
@@ -361,15 +368,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Zeeshan Latif</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/csgochan">
             <img src="https://avatars.githubusercontent.com/u/116420257?v=4" width="100;" alt="csgochan"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hassanaamir12">
             <img src="https://avatars.githubusercontent.com/u/80892294?v=4" width="100;" alt="hassanaamir12"/>
@@ -404,15 +411,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ImranJaved1073">
             <img src="https://avatars.githubusercontent.com/u/96229355?v=4" width="100;" alt="ImranJaved1073"/>
             <br />
             <sub><b>Imran Javed</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Inzamam-007">
             <img src="https://avatars.githubusercontent.com/u/115908127?v=4" width="100;" alt="Inzamam-007"/>
@@ -447,27 +454,20 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Muhammad Zeeshan Haider</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Saadullah001">
             <img src="https://avatars.githubusercontent.com/u/115940273?v=4" width="100;" alt="Saadullah001"/>
             <br />
             <sub><b>Saadullah</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/gupta-soham">
             <img src="https://avatars.githubusercontent.com/u/97831613?v=4" width="100;" alt="gupta-soham"/>
             <br />
             <sub><b>Soham Gupta</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/SubhanuSRoy">
-            <img src="https://avatars.githubusercontent.com/u/71728589?v=4" width="100;" alt="SubhanuSRoy"/>
-            <br />
-            <sub><b>Subhanu Sankar Roy</b></sub>
         </a>
     </td>
     <td align="center">
