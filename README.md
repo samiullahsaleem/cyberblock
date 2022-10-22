@@ -191,13 +191,20 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Mahreen-Asama">
+            <img src="https://avatars.githubusercontent.com/u/79749919?v=4" width="100;" alt="Mahreen-Asama"/>
+            <br />
+            <sub><b>Mahreen Asama</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/SobanAnjum07">
             <img src="https://avatars.githubusercontent.com/u/114462166?v=4" width="100;" alt="SobanAnjum07"/>
             <br />
             <sub><b>M. Soban Anjum</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/AbubakrChan">
             <img src="https://avatars.githubusercontent.com/u/89600478?v=4" width="100;" alt="AbubakrChan"/>
@@ -231,13 +238,6 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <img src="https://avatars.githubusercontent.com/u/60524464?v=4" width="100;" alt="tayyabnasir911"/>
             <br />
             <sub><b>Tayyab Nasir</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Mahreen-Asama">
-            <img src="https://avatars.githubusercontent.com/u/79749919?v=4" width="100;" alt="Mahreen-Asama"/>
-            <br />
-            <sub><b>Mahreen Asama</b></sub>
         </a>
     </td></tr>
 <tr>
