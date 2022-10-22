@@ -27,6 +27,10 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         - Chain of Responsibility
         - State
     - Point distance
+    - Fast solution to problems
+        - Reverse number
+        - Remove Duplicates
+        - TwoSum
     - Perfect Number Problem
     - Array Sorting
     - Binary Search
