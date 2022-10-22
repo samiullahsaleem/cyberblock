@@ -1,27 +1,21 @@
 #include <iostream>
 using namespace std;
-int main()
-{
-	int x;
-	cout << "Enter the number you want to find the factorial:";
-	cin >> x;
-	if (x == 0)
-	{
-		cout << "1";
-	}
-	else if (x > 0)
-	{
-		int fact = 1;
-		for (int i = 1; i <= x; i++)
-		{
-			fact *= i;
-		}
-		cout << "Factorial of the number is:" << fact;
-	}
-	else
-	{
-		cout << "Number is invalid";
-	}
 
+int main() {
+    int n;
+    long factorial = 1.0;
 
+    cout << "Enter a positive integer: ";
+    cin >> n;
+
+    if (n < 0)
+        cout << "Error! Factorial of a negative number doesn't exist.";
+    else {
+        for(int i = 1; i <= n; ++i) {
+            factorial *= i;
+        }
+        cout << "Factorial of " << n << " = " << factorial;    
+    }
+
+    return 0;
 }

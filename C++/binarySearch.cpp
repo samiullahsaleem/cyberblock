@@ -1,32 +1,49 @@
-#include <iostream>
+#include<iostream>
+
 using namespace std;
 
-int binarySearch(int array[], int x, int low, int high) {
-  
-	// Repeat until the pointers low and high meet each other
-  while (low <= high) {
-    int mid = low + (high - low) / 2;
+int main()
+{
+    int search(int [],int,int);
+    int n,i,a[100],e,res;
+    cout<<"Enter size of Array :: ";
+    cin>>n;
+    cout<<"\nEnter elements to the array :: \n";
 
-    if (array[mid] == x)
-      return mid;
+    for(i=0;i<n;++i)
+    {
+        cout<<"\nEnter "<<i+1<<" element :: ";
+        cin>>a[i];
+    }
+cout<<"\nEnter element to search :: ";
+    cin>>e;
 
-    if (array[mid] < x)
-      low = mid + 1;
+    res=search(a,n,e);
 
+    if(res!=-1)
+        cout<<"\nElement found at position "<<res+1<<"\n";
     else
-      high = mid - 1;
-  }
+        cout<<"\nElement is not found....!!!";
 
-  return -1;
+    return 0;
 }
 
-int main(void) {
-  int array[] = {3, 4, 5, 6, 7, 8, 9};
-  int x = 4;
-  int n = sizeof(array) / sizeof(array[0]);
-  int result = binarySearch(array, x, 0, n - 1);
-  if (result == -1)
-    printf("Not found");
-  else
-    printf("Element is found at index %d", result);
+int search(int a[],int n,int e)
+{
+    int f,l,m;
+    f=0;
+    l=n-1;
+    while(f<=l)
+    {
+        m=(f+l)/2;
+        if(e==a[m])
+            return(m);
+        else
+            if(e>a[m])
+                f=m+1;
+            else
+                l=m-1;
+    }
+
+    return -1;
 }
