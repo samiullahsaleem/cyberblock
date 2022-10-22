@@ -1,43 +1,39 @@
-#include <iostream>
-using namespace std;
+#include < iostream >
+  using namespace std;
 
-void bubbleSort(int *arr)
-{
-    for(int i = 1; i < 5; i++)
-    {
-        for(int j = 0; j < 5 - i; j++)
-        {
-            if(arr[j] > arr[j+1])
-            {
-                int temp = arr[j];
-                arr[j] = arr[j+1];
-                arr[j+1] = temp;
-            }
-        }
+void bubbleSort(int *a,int size) {
+  for (int i = 0; i < size; i++) {
+    for (int j = 0; j < (size- 1); j++) {
+      if (a[j] > a[j + 1]) {
+        int temp = a[j];
+        a[j] = a[j + 1];
+        a[j + 1] = temp;
+      }
     }
+  }
 }
 
-int main()
-{
-int arr[5] = {9, 3, 6, 5, 12};
+int main() {
+  int size;
+  cout<<"enter size:"<<endl;
+  cin>>size;
+  //dynamically allocating array
+  int *myarray=new int[size];
+ cout << "Enter integers in any order: " << endl;
+  for (int i = 0; i < size; i++) {
+    cin >> myarray[i];
+  }
+  cout << "Before Sorting" << endl;
+  for (int i = 0; i < size; i++) {
+    cout << myarray[i] << " ";
+  }
 
-cout << "Unsorted:\n";    
-    for(int i = 0; i < 5; i++)
-    {
-        cout << arr[i];
-        if(i < 4)
-        cout << ", ";
-    }
-    cout << endl;
+  bubbleSort(myarray,size); // sorting
 
-bubbleSort(arr);
+  cout << endl << "After Sorting" << endl;
+  for (int i = 0; i < size; i++) {
+    cout << myarray[i] << " ";
+  }
 
-cout << "Sorted:\n";    
-    for(int i = 0; i < 5; i++)
-    {
-        cout << arr[i];
-        if(i < 4)
-        cout << ", ";
-    }
-    cout << endl;
+  return 0;
 }

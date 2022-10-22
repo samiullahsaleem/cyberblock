@@ -1,18 +1,22 @@
-//#include<iostream>
-//using namespace std;
-//int main()
-//{
-//	int n;
-//	cout << "How many numbers enter: "; cin >> n;
-//	int* arr = new int[n];
-//	cout << "Enter a number\n";
-//	for (size_t i = 0; i < n; i++)
-//	{
-//		cin >> arr[i];
-//	}
-//	int* p =&arr[n - 1];
-//	for (size_t i = 0; i < n; i++)
-//	{
-//		cout << *p << " "; p--;
-//	}
-//}
+#include <iostream>
+using namespace std;
+int main()
+{
+	int* ptr;
+	int size;
+	cout << "Enter the size : ";
+	cin >> size;
+	ptr = new int[size];
+	for (int i = 0; i < size; i++)
+	{
+		cout << "Enter the element:";
+		cin >> ptr[i];
+	}
+	for (int i = size-1; i >= 0; i--)
+	{
+		cout << ptr[i] << "\t";
+	}
+	delete[] ptr;
+	ptr = nullptr;
+	return 0;
+}
