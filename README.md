@@ -578,13 +578,20 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/MALIKUSMAN60">
+            <img src="https://avatars.githubusercontent.com/u/76878749?v=4" width="100;" alt="MALIKUSMAN60"/>
+            <br />
+            <sub><b>Usman Afzal</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/malaika32">
             <img src="https://avatars.githubusercontent.com/u/115931168?v=4" width="100;" alt="malaika32"/>
             <br />
             <sub><b>Malaika_Urooj</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Mayuresh-22">
             <img src="https://avatars.githubusercontent.com/u/111348926?v=4" width="100;" alt="Mayuresh-22"/>
@@ -619,15 +626,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Nitya Pasrija</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/samsorrahman">
             <img src="https://avatars.githubusercontent.com/u/112087807?v=4" width="100;" alt="samsorrahman"/>
             <br />
             <sub><b>Samsor Rahman</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/srijani18">
             <img src="https://avatars.githubusercontent.com/u/83814607?v=4" width="100;" alt="srijani18"/>
@@ -650,12 +657,20 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ahmadmustafaanis">
+            <img src="https://avatars.githubusercontent.com/u/47111429?v=4" width="100;" alt="ahmadmustafaanis"/>
+            <br />
+            <sub><b>Ahmad Mustafa Anis</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/amoeed234">
             <img src="https://avatars.githubusercontent.com/u/111081691?v=4" width="100;" alt="amoeed234"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ashwinpra">
             <img src="https://avatars.githubusercontent.com/u/62993493?v=4" width="100;" alt="ashwinpra"/>
@@ -669,8 +684,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Ce19</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/developergaurav-exe">
             <img src="https://avatars.githubusercontent.com/u/74445745?v=4" width="100;" alt="developergaurav-exe"/>
@@ -698,7 +712,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Aditya Kumar</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/AhmadSarwarSSG">
             <img src="https://avatars.githubusercontent.com/u/75162178?v=4" width="100;" alt="AhmadSarwarSSG"/>
@@ -712,8 +727,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Aleena Ali Azeem</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ali-aslam10">
             <img src="https://avatars.githubusercontent.com/u/115929148?v=4" width="100;" alt="ali-aslam10"/>
@@ -741,7 +755,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Aman</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/proanus">
             <img src="https://avatars.githubusercontent.com/u/96665688?v=4" width="100;" alt="proanus"/>
@@ -755,8 +770,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Areeba Muzammil</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Asma-ch">
             <img src="https://avatars.githubusercontent.com/u/115943093?v=4" width="100;" alt="Asma-ch"/>
@@ -784,7 +798,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/RahulSahOfficial">
             <img src="https://avatars.githubusercontent.com/u/62435110?v=4" width="100;" alt="RahulSahOfficial"/>
@@ -798,8 +813,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Dinoj Ahangama</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/farhanashrafdev">
             <img src="https://avatars.githubusercontent.com/u/53370109?v=4" width="100;" alt="farhanashrafdev"/>
@@ -827,7 +841,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Hamna Mohiuddin</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Harisleghari">
             <img src="https://avatars.githubusercontent.com/u/54736339?v=4" width="100;" alt="Harisleghari"/>
@@ -841,8 +856,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Hazikafarooq">
             <img src="https://avatars.githubusercontent.com/u/84680497?v=4" width="100;" alt="Hazikafarooq"/>
@@ -870,7 +884,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/kshitijv256">
             <img src="https://avatars.githubusercontent.com/u/101321276?v=4" width="100;" alt="kshitijv256"/>
@@ -884,20 +899,12 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>LAIBA KAMAL</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Laiba526">
             <img src="https://avatars.githubusercontent.com/u/115941807?v=4" width="100;" alt="Laiba526"/>
             <br />
             <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MALIKUSMAN60">
-            <img src="https://avatars.githubusercontent.com/u/76878749?v=4" width="100;" alt="MALIKUSMAN60"/>
-            <br />
-            <sub><b>Usman Afzal</b></sub>
         </a>
     </td>
     <td align="center">
@@ -920,15 +927,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Mayank Rastogi</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Mehmood160">
             <img src="https://avatars.githubusercontent.com/u/116100692?v=4" width="100;" alt="Mehmood160"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/maziz7508">
             <img src="https://avatars.githubusercontent.com/u/92409310?v=4" width="100;" alt="maziz7508"/>
@@ -963,15 +970,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Muhammad Manan</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/NajamShehzad">
             <img src="https://avatars.githubusercontent.com/u/37629243?v=4" width="100;" alt="NajamShehzad"/>
             <br />
             <sub><b>Najam Shehzad </b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/pronajitdey">
             <img src="https://avatars.githubusercontent.com/u/90619240?v=4" width="100;" alt="pronajitdey"/>
@@ -1006,15 +1013,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Rubasiha">
             <img src="https://avatars.githubusercontent.com/u/115997667?v=4" width="100;" alt="Rubasiha"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sid2631">
             <img src="https://avatars.githubusercontent.com/u/69759968?v=4" width="100;" alt="sid2631"/>
@@ -1049,15 +1056,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Shreejan Dolai</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Daniyalhash">
             <img src="https://avatars.githubusercontent.com/u/110484391?v=4" width="100;" alt="Daniyalhash"/>
             <br />
             <sub><b>Syed Daniyal Hashmi</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Deletus-Fast">
             <img src="https://avatars.githubusercontent.com/u/93150072?v=4" width="100;" alt="Deletus-Fast"/>
@@ -1092,15 +1099,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Beer Idev</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/canggihwr">
             <img src="https://avatars.githubusercontent.com/u/57065088?v=4" width="100;" alt="canggihwr"/>
             <br />
             <sub><b>Canggih Wahyu Rinaldi</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Haseeb1604">
             <img src="https://avatars.githubusercontent.com/u/57530750?v=4" width="100;" alt="Haseeb1604"/>
@@ -1135,15 +1142,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mafzaldev">
             <img src="https://avatars.githubusercontent.com/u/78255759?v=4" width="100;" alt="mafzaldev"/>
             <br />
             <sub><b>Muhammad Afzal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/mrigank590">
             <img src="https://avatars.githubusercontent.com/u/101625174?v=4" width="100;" alt="mrigank590"/>
@@ -1178,15 +1185,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/syedowaisalishah">
             <img src="https://avatars.githubusercontent.com/u/113125582?v=4" width="100;" alt="syedowaisalishah"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/wareeshaali2003">
             <img src="https://avatars.githubusercontent.com/u/110236886?v=4" width="100;" alt="wareeshaali2003"/>
