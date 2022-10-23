@@ -1194,6 +1194,14 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
+    </td>    
+    <td align="center">
+        <a href="https://github.com/fahadashiq12">
+            <img src="https://avatars.githubusercontent.com/u/44393684?s=400&u=d92cd0c5d82c93a22202b8c51cd26ab993f77d6e&v=4" width="100;" alt="fahadashiq12"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+</tr>
 </table>
 <!-- readme: contributors -end -->
