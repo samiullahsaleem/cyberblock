@@ -41,6 +41,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
     - Palindrome Checker
     - Fibonacci Series
     - Number to Word Converter
+    - Swap Two Numbers
     - Design Patterns
         - Adapter
         - Facade
