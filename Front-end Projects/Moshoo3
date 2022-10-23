@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Online C-Mart</title>
+	<link rel="stylesheet" type="text/css" href="123.css">
+</head>
+<body style="background-color: #66CDCA; link="#000" alink="#017bf">
+	<br><br><br>
+	<h3 align="center">
+		<font face="Lato" size="6">C-MART</font>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="cinzel" size="4">
+			<a href="home.html">Home</a>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="home.html">Laptop</a>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="home.html">Processors</a>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="home.html">Games</a>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="home.html">Graphic Cards</a>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="home.html">System</a>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="home.html">Printers</a>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="aboutus.html">About Us</a>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<br><br>	
+			<div class="topnav" align="bottom left" style="background-color: black">
+				<font face="cinzel" size="2" color="white">All</font>
+				<input type="text" placeholder="Search..">
+			</div>
+
+		</font>
+	</h3>
+	
+	<br><br><br><br><br><br><br><br><br>
+	<h1 align="center">
+		<marquee>
+		<font face="Lato" color="white" size="7">
+			WELCOME TO C-MART
+		</font>
+	</marquee>
+	</h1>
+	<h3 align="center">
+		<font face="Lato" color="#000" size="5">
+			We Serve According to Your Choice
+		</font>
+	</h3>
+	<h3 align="center ">
+		<a href="registration.html">
+			<font face="Lato" color="#000" alink="#017bf">
+				<u>SIGN UP HERE</u>
+			</font>
+		</a>
+	</h3>
+
+</body>
+</html>
