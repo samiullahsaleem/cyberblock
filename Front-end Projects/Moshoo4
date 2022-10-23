@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ABOUT US</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body style="background-color: yellow">
+	
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<pre align="center">
+	<font face="Cinzel" size="5" color="black"> ABOUT US</font>
+<br>
+	We are serving in the world of hardware computer accessories. Our aim is to serve you respectly. 
+	If you find any fault and you get a problem while using our product simply contact us. We are 24/7 
+	available to serve you.
+	<br>
+	Email: help@cmart.com
+	<br>
+	Facebook: facebook.com/cmart
+</pre>
+
+<button type="submit" form="form1" value="Submit"  >Submit</button>
+</body>
+</html>
