@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+/* hero section style start */
+.hero {
+  width: 100%;
+  min-height: 100vh;
+  background-image: url(images/back-image.png);
+  background-position: center;
+  background-size: cover;
+  padding: 10px 10%;
+  overflow: hidden;
+  position: relative;
+}
+/* hero section style end */
+
+/* style for nav bar start */
+.navbar {
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* style for nav bar end */
+
+/* style for logo start */
+.logo {
+  width: 140px;
+  cursor: pointer;
+}
+
+/* style for logo end */
+
+/* style for ul li start */
+.navbar ul li {
+  display: inline-block;
+  list-style: none;
+  margin: 10px 15px;
+}
+
+/* style for ul li end */
+
+/* style for ul li links start */
+.navbar ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 400;
+}
+.navbar ul li a:hover{
+  color:#D94393 ;
+  font-weight: 600;
+}
+/* style for ul li  links end */
+
+/* style for logo-btn start */
+.login-btn {
+  text-decoration: none;
+  color: #333;
+  margin-right: 15px;
+  font-weight: 400;
+}
+.login-btn:hover{
+  color: #D94393;
+  font-weight: 600;
+  font-weight: 600;
+}
+/* style for logo-btn end */
+
+/* style for download-btn start*/
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px 40px;
+  color: #fff;
+  background-image: linear-gradient(45deg, #df4881, #c430d7);
+  font-size: 14px;
+  border-radius: 30px;
+  border-top-right-radius: 0;
+  transition: 0.5s;
+}
+
+/* style for download-btn end*/
+
+/* style for content start */
+
+.content {
+  margin-top: 10%;
+  max-width: 600px;
+}
+.content h1 {
+  font-size: 70px;
+  color: #222;
+}
+.content p {
+  margin: 10px 0 30px;
+  color: #333;
+  animation-delay: 0.5s;
+}
+.content .btn {
+  padding: 15px 80px;
+  font-size: 16px;
+  animation-delay: 1s;
+}
+.btn:hover {
+  border-top-right-radius: 30px;
+}
+/* Feature image style start */
+
+.feature-img {
+  width: 530px;
+  bottom: 0;
+  right: 10%;
+  position: absolute;
+}
+.feature-img.anim {
+  animation-delay: 1.5s;
+}
+/* Feature image style end */
+
+/* Animation start */
+.anim {
+  opacity: 1;
+  transform: translateY(30px);
+  animation: moveup 0.5s linear forwards;
+}
+/* keyframes */
+@keyframes moveup {
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+/* Animation end */
