@@ -1,0 +1,15 @@
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.exe
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.dll
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.dll
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+C:\Users\AGhazi\Desktop\Dictionary\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll
