@@ -1052,13 +1052,20 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/1-Rishabh-Jain-1">
+            <img src="https://avatars.githubusercontent.com/u/73517462?v=4" width="100;" alt="1-Rishabh-Jain-1"/>
+            <br />
+            <sub><b>Rishabh Jain</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/ritam077">
             <img src="https://avatars.githubusercontent.com/u/115361914?v=4" width="100;" alt="ritam077"/>
             <br />
             <sub><b>Ritam Kumar Kundu</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/RubaishaZaid">
             <img src="https://avatars.githubusercontent.com/u/116184672?v=4" width="100;" alt="RubaishaZaid"/>
@@ -1093,15 +1100,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Sagnik Sahoo </b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/SaharshDaNerd">
             <img src="https://avatars.githubusercontent.com/u/58357403?v=4" width="100;" alt="SaharshDaNerd"/>
             <br />
             <sub><b>Saharsh Saxena</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Muhammad-Shaheer-khan">
             <img src="https://avatars.githubusercontent.com/u/115348379?v=4" width="100;" alt="Muhammad-Shaheer-khan"/>
@@ -1136,15 +1143,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Tuba Siddiqui</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/wajeehacom">
             <img src="https://avatars.githubusercontent.com/u/115942461?v=4" width="100;" alt="wajeehacom"/>
             <br />
             <sub><b>Wajeeha Yaseen</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/zohaibshahid26">
             <img src="https://avatars.githubusercontent.com/u/113136910?v=4" width="100;" alt="zohaibshahid26"/>
@@ -1179,15 +1186,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Muhammad Haseeb</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/heyitsuzair">
             <img src="https://avatars.githubusercontent.com/u/89875366?v=4" width="100;" alt="heyitsuzair"/>
             <br />
             <sub><b>Muhammad Uzair</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/iqrasarwar">
             <img src="https://avatars.githubusercontent.com/u/71145709?v=4" width="100;" alt="iqrasarwar"/>
@@ -1222,15 +1229,15 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Nishii4u">
             <img src="https://avatars.githubusercontent.com/u/91430096?v=4" width="100;" alt="Nishii4u"/>
             <br />
             <sub><b>Priya Yadav</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ritam0077">
             <img src="https://avatars.githubusercontent.com/u/115919691?v=4" width="100;" alt="ritam0077"/>
@@ -1265,7 +1272,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/wareeshaali2003">
             <img src="https://avatars.githubusercontent.com/u/110236886?v=4" width="100;" alt="wareeshaali2003"/>
