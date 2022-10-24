@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: blue;
+  font-family: "Lato", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  margin-top: 7%;
+}
+h1{
+    color: white;
+    
+}
+input {
+  padding: 30px;
+  margin: 14px;
+  width: 50%;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+.submitbutton {
+  background-color:yellow;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+input[type="Submit"]:hover{
+    background-color:white;
+    color: blue;
+    border: 6px solid white;
+    transition: 0.5s;
+    
+
+}
