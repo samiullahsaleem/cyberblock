@@ -1,0 +1,12 @@
+D:\C-sharp\Q1\Q1\bin\Debug\Q1.exe.config
+D:\C-sharp\Q1\Q1\bin\Debug\Q1.exe
+D:\C-sharp\Q1\Q1\bin\Debug\Q1.pdb
+D:\C-sharp\Q1\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+D:\C-sharp\Q1\Q1\obj\Debug\Q1.csproj.SuggestedBindingRedirects.cache
+D:\C-sharp\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+D:\C-sharp\Q1\Q1\obj\Debug\Q1.exe
+D:\C-sharp\Q1\Q1\obj\Debug\Q1.pdb
+D:\C-sharp\Q1\Q1\bin\Debug\HtmlAgilityPack.dll
+D:\C-sharp\Q1\Q1\bin\Debug\HtmlAgilityPack.pdb
+D:\C-sharp\Q1\Q1\bin\Debug\HtmlAgilityPack.xml
+D:\C-sharp\Q1\Q1\obj\Debug\Q1.csproj.CopyComplete
