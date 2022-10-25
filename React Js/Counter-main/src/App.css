@@ -1,0 +1,28 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+.heading{
+  color: rgb(3, 70, 70);
+  font-size: 60px;
+
+}
+
+.button{
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+  margin: 10px;
+}
+.button1{
+  margin: 10px;
+  padding: 10px;
+}
+
+.button2{
+  margin: 10px; 
+  padding: 10px;
+}
