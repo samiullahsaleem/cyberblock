@@ -1282,6 +1282,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/rohinipatil89">
+            <img src="https://avatars.githubusercontent.com/u/114460901?v=4" width="100;" alt="rohinipatil89"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/samsenpi">
             <img src="https://avatars.githubusercontent.com/u/110158322?v=4" width="100;" alt="samsenpi"/>
             <br />
@@ -1308,7 +1315,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/wareeshaali2003">
             <img src="https://avatars.githubusercontent.com/u/110236886?v=4" width="100;" alt="wareeshaali2003"/>
