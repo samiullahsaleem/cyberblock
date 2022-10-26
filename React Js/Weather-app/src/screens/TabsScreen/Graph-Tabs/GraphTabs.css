@@ -1,0 +1,29 @@
+.chart-tab-centi-flex{
+    display: flex;
+    flex-direction: column;
+    margin-right: 7px !important;
+}
+.gcharts-tabs-ul button{
+ border: 0 !important;
+ border-radius: 0 !important;
+ height: 100px !important;
+}
+.gcharts-tabs-ul .nav-item button:hover{
+    border: 0 !important;
+    
+}
+.gcharts-tabs-ul .nav-item button.active{
+    background-color: #f8f9fa !important;
+    border-radius: 10px !important;
+    
+}
+.gcharts-tabs-ul{
+    border-bottom: 0 !important;
+}
+
+@media screen and (max-width: 700px) {
+    .gcharts-tabs-ul{
+        margin-left: 25px;
+    }
+  }
+
