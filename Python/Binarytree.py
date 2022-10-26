@@ -1,3 +1,4 @@
+#defining class 
 class Binarytree:
     def _init_(self,data):
         self.data = data
