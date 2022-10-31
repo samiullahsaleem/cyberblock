@@ -1,63 +1,85 @@
-import curses
-from random import randint
-#setup window
-curses.initscr()
-win=curses.newwin(20,60,0,0)#y,x
-win.keypad(1)
-curses.noecho()
-curses.curs_set(0)
-win.border(0)
-win.nodelay(1)#-1
-#snake & food
-snake=[(4,10),(4,9),(4,8)]
-food=(10,20)
-#game logic
-win.addch(food[0],food[1],'#')
-score=0
-ESC=27
-key=curses.KEY_RIGHT
-while key!=ESC:
-    win.addstr(0,2,'Score'+str(score)+' ')
-    win.timeout(150-(len(snake))//5 + len(snake)//10%120)#increase speed
-    prev_key=key
-    event=win.getch()
-    key= event if event!=-1 else prev_key
-    if key not in [curses.KEY_RIGHT,curses.KEY_LEFT,curses.KEY_UP,curses.KEY_DOWN,ESC]:
-        key=prev_key
-    #calculate the next coordinates
-    y=snake[0][0]
-    x=snake[0][1]
-    if key==curses.KEY_DOWN:
-        y+=1  
-    if key==curses.KEY_UP:
-        y-=1       
-    if key==curses.KEY_LEFT:
-        x-=1 
-    if key==curses.KEY_RIGHT:
-        x+=1 
-    snake.insert(0,(y,x))    
-    #check if we hit the border
-    if y==0:break
-    if y==19:break
-    if x==0:break
-    if x==59:break
-    #if snake run over itself
-    if snake[0] in snake[1:]:break
-    if snake[0]==food:
-        #eat the food
-        score+=1
-        food=()
-        while food==():
-            food=(randint(1,18),randint(1,58))
-            if food in snake:
-                food=()
-            win.addch(food[0],food[1],'#')    
-    else:
-        #move snake
-        last=snake.pop()
-        win.addch(last[0],last[1],' ')
-    
-    win.addch(snake[0][0],snake[0][1],'*')    
+import random
 
-curses.endwin()
-print(f"Final Score={score}")
+def roll_dice():
+
+    d  = random.randint(1,6)
+    return d
+
+def ladder_or_snake():
+    n1 = random.randint(0,99)
+    n2 = random.randint(0,99)
+
+    if n1 < n2:
+        return (n1, n2) #smaller, greater
+    if n2 < n1:
+        return (n2, n1) #smaller, greater
+
+def main():
+    game = []
+    for num in range(0,101):
+        game.append(num)
+
+    # for ladders
+    l1_n1, l1_n2 = ladder_or_snake()
+    l2_n1, l2_n2 = ladder_or_snake()
+    l3_n1, l3_n2 = ladder_or_snake()
+    l4_n1, l4_n2 = ladder_or_snake()
+
+    # for snakes
+    s1_n1, s1_n2 = ladder_or_snake()
+    s2_n1, s2_n2 = ladder_or_snake()
+    s3_n1, s3_n2 = ladder_or_snake()  
+    s4_n1, s4_n2 = ladder_or_snake()
+    
+    position = 1
+    while position <=100:
+        dice = roll_dice()
+        position += dice
+
+        if position > 100:
+            while position != 100:
+                position -= dice
+                dice = roll_dice()
+                position += dice
+
+        print(f'Dice has value {dice}, piece moved to cell {game[position] }')
+
+        #       <----------for ladder---------->
+        if game[position] == l1_n1:
+            print(f'There is ladder on cell {game[position]}, piece move to {l1_n2}')
+            position = l1_n2
+
+        if game[position] == l2_n1:
+            print(f'There is ladder on cell {game[position]}, piece move to {l2_n2}')
+            position = l2_n2
+
+        if game[position] == l3_n1:
+            print(f'There is ladder on cell {game[position]}, piece move to {l3_n2}')
+            position = l3_n2
+
+        if game[position] == l4_n1:
+            print(f'There is ladder on cell {game[position]}, piece move to {l4_n2}')
+            position = l4_n2
+
+
+        #       <----------for snakes---------->
+        if game[position] == s1_n2:
+            print(f'There is snake on this cell {game[position]}, piece move to {s1_n1}')
+            position = s1_n1
+
+        if position == s2_n2:
+            print(f'There is snake on this cell {game[position]}, piece move to {s2_n1}')
+            position -= s2_n1
+
+        if position == s3_n2:
+            print(f'There is snake on this cell {game[position]}, piece move to {s3_n1}')
+            position -= s3_n1
+
+        if position == s4_n2:
+            print(f'There is snake on this cell {game[position]}, piece move to {s4_n1}')
+            position -= s4_n1
+        
+        if position == 100:
+            print('<----Yay, you won the game.---->')
+            break
+main()
